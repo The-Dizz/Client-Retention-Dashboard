@@ -1,0 +1,1001 @@
+cust_id,date,plan_type,agent,cancel_reason,outcome,postal_code,add_ons
+644933,2023-06-30,VIP Standard - Furnace,Jack,Unused,Y,N2L,"HRV System, Duct Cleaning, Boiler System, Humidifier, Ductless System, Water Heater, Tankless, Gas Fireplace"
+146986,2023-02-27,Whole House Protection,Bob,Bad Customer Service,Y,N2N,"Gas Fireplace, Tankless, HRV System, Water Heater, Humidifier, Duct Cleaning, Ductless System"
+180326,2023-07-17,VIP Standard - AC/Heat Pump,Jill,Bad Customer Service,N,N2J,"Ductless System, Gas Fireplace, HRV System, Duct Cleaning, Water Heater, Humidifier, Boiler System"
+736959,2023-09-20,VIP Standard - Furnace,Bob,Unused,N,N2J,"Duct Cleaning, Humidifier, Tankless, Water Heater"
+171182,2023-01-26,VIP Standard - AC/Heat Pump,Jane,Unused,N,N2B,"Humidifier, Duct Cleaning, Ductless System, Boiler System, HRV System"
+476453,2023-03-20,Whole House Protection,Jane,Bad Customer Service,N,N2P,Humidifier
+926442,2023-09-14,VIP Standard - Furnace & AC/Heat Pump,Bob,Unused,N,N2T,"Tankless, Duct Cleaning, Ductless System, Gas Fireplace"
+177801,2023-02-16,VIP Standard - Furnace & AC/Heat Pump,Jane,Price,N,N2P,
+837287,2023-11-10,Whole House Protection,Jane,Unused,N,N2L,"Water Heater, Humidifier, Gas Fireplace, Boiler System, HRV System, Ductless System, Duct Cleaning, Tankless"
+683802,2023-10-03,Whole House Protection,Jane,Moving,Y,N2N,"Boiler System, Tankless, Humidifier, Gas Fireplace, Duct Cleaning, HRV System, Water Heater"
+897696,2023-05-16,VIP Standard - AC/Heat Pump,Jane,Unused,N,N2E,"Tankless, HRV System, Humidifier, Gas Fireplace, Boiler System"
+459616,2023-02-21,VIP Essential,Bob,Price,Y,N2M,"Tankless, Water Heater, Gas Fireplace, HRV System"
+477763,2023-04-24,VIP Standard - Furnace & AC/Heat Pump,Jack,Bad Customer Service,Y,N2L,"Humidifier, Duct Cleaning, Tankless, Gas Fireplace, HRV System"
+874918,2023-02-24,VIP Essential,Jill,Price,N,N2T,Humidifier
+879996,2023-05-10,VIP Essential,Jill,Bad Customer Service,Y,N2L,"Ductless System, Humidifier, Duct Cleaning, Boiler System"
+861838,2023-08-21,VIP Standard - AC/Heat Pump,Jill,Price,Y,N2M,"Duct Cleaning, Tankless"
+614215,2023-02-09,VIP Standard - AC/Heat Pump,Bob,Price,N,N2E,"Boiler System, Tankless, Ductless System, HRV System, Humidifier"
+646192,2023-02-28,VIP Standard - Furnace & AC/Heat Pump,Jane,Unused,Y,N2L,Tankless
+559214,2023-03-20,Whole House Protection,Jack,Price,N,N2A,"Duct Cleaning, Humidifier"
+324005,2023-09-05,Whole House Protection,Jack,Bad Customer Service,N,N2V,"Humidifier, Ductless System, Boiler System, Gas Fireplace, Water Heater, Tankless, Duct Cleaning"
+153942,2023-01-27,VIP Standard - Furnace,Jill,Unused,N,N2G,"Boiler System, Tankless"
+559642,2023-04-25,VIP Essential,Bob,Unused,Y,N2J,"HRV System, Boiler System, Ductless System, Gas Fireplace, Humidifier, Duct Cleaning, Water Heater, Tankless"
+727119,2023-08-23,VIP Essential,Bob,Unused,N,N2G,"Tankless, Water Heater, Boiler System, Gas Fireplace, HRV System"
+411716,2023-05-23,VIP Standard - AC/Heat Pump,Jill,Price,N,N2A,"Duct Cleaning, Humidifier, Gas Fireplace, Boiler System"
+849661,2023-11-29,VIP Essential,Jack,Moving,Y,N2K,"HRV System, Boiler System, Tankless, Gas Fireplace, Humidifier, Duct Cleaning"
+133867,2023-05-26,Whole House Protection,Bob,Moving,Y,N2A,"Ductless System, Gas Fireplace, Humidifier, Water Heater, Boiler System, Duct Cleaning, HRV System"
+988121,2023-07-14,VIP Standard - AC/Heat Pump,Bob,Bad Customer Service,N,N2H,"Boiler System, Gas Fireplace, Duct Cleaning, Humidifier, Ductless System, Tankless, HRV System"
+415155,2023-10-03,VIP Standard - Furnace & AC/Heat Pump,Jane,Moving,Y,N2R,Duct Cleaning
+988602,2023-01-25,VIP Essential,Bob,Bad Customer Service,Y,N2M,Duct Cleaning
+870998,2023-09-28,VIP Standard - AC/Heat Pump,Jack,Moving,N,N2K,"Boiler System, Humidifier, Tankless, HRV System, Duct Cleaning, Water Heater, Ductless System"
+259712,2023-06-07,VIP Standard - Furnace & AC/Heat Pump,Jack,Unused,N,N2R,"Ductless System, Humidifier, HRV System, Tankless, Duct Cleaning, Boiler System, Gas Fireplace"
+886453,2023-02-21,VIP Standard - Furnace & AC/Heat Pump,Jill,Moving,Y,N2H,"Boiler System, Tankless, Ductless System, Gas Fireplace"
+657358,2023-10-16,VIP Essential,Jack,Price,Y,N2N,"Water Heater, Gas Fireplace, Ductless System, Tankless, Boiler System"
+559061,2023-07-18,Whole House Protection,Bob,Bad Customer Service,N,N2T,"Tankless, Water Heater, HRV System, Boiler System, Gas Fireplace"
+606868,2023-06-26,Whole House Protection,Jill,Bad Customer Service,N,N2N,"HRV System, Water Heater, Tankless, Boiler System"
+230435,2023-09-01,Whole House Protection,Jack,Unused,N,N2M,
+359757,2023-08-16,VIP Standard - AC/Heat Pump,Bob,Moving,N,N2L,"Boiler System, Tankless, Gas Fireplace, Ductless System, HRV System"
+289242,2023-03-27,VIP Standard - AC/Heat Pump,Bob,Unused,Y,N2C,"Tankless, Water Heater, HRV System, Duct Cleaning"
+425929,2023-01-23,VIP Standard - Furnace,Jane,Unused,Y,N2V,"Duct Cleaning, HRV System, Water Heater, Boiler System, Tankless, Ductless System"
+785708,2023-01-18,VIP Standard - Furnace,Bob,Price,N,N2P,"Boiler System, Ductless System, HRV System, Humidifier"
+377063,2023-02-28,Whole House Protection,Jane,Bad Customer Service,N,N2G,"Water Heater, HRV System, Tankless"
+639623,2023-06-16,VIP Standard - Furnace,Jack,Unused,Y,N2G,"Humidifier, HRV System"
+189181,2023-03-21,Whole House Protection,Jane,Unused,N,N2B,Gas Fireplace
+811102,2023-05-25,Whole House Protection,Jane,Bad Customer Service,N,N2C,Tankless
+790229,2023-09-08,Whole House Protection,Jack,Unused,Y,N2J,
+957061,2023-02-22,VIP Standard - Furnace,Bob,Moving,N,N2P,"Humidifier, Duct Cleaning, Tankless, Water Heater, Ductless System, Gas Fireplace, HRV System"
+593224,2023-11-28,VIP Standard - Furnace,Jill,Moving,N,N2M,"Water Heater, Humidifier, Gas Fireplace, Ductless System, Boiler System"
+820222,2023-02-22,VIP Essential,Jill,Moving,Y,N2T,"HRV System, Gas Fireplace, Duct Cleaning, Humidifier, Tankless, Boiler System, Water Heater"
+345618,2023-10-16,VIP Essential,Jack,Price,N,N2P,"Tankless, Humidifier"
+559618,2023-10-12,Whole House Protection,Jack,Price,N,N2R,"Tankless, Boiler System"
+272892,2023-02-27,VIP Standard - Furnace,Bob,Unused,Y,N2T,"Ductless System, Gas Fireplace, Humidifier, Duct Cleaning, Boiler System, Water Heater, Tankless"
+862998,2023-01-06,Whole House Protection,Jack,Bad Customer Service,Y,N2K,
+956289,2023-02-08,Whole House Protection,Bob,Bad Customer Service,N,N2H,"Ductless System, Humidifier, Water Heater"
+816977,2023-06-30,VIP Essential,Jane,Price,Y,N2P,"Gas Fireplace, Water Heater, Humidifier, Boiler System, Ductless System, HRV System, Duct Cleaning, Tankless"
+137292,2023-10-16,VIP Standard - Furnace,Jane,Moving,Y,N2T,"Gas Fireplace, HRV System, Water Heater, Humidifier, Boiler System"
+912910,2023-07-17,VIP Standard - Furnace & AC/Heat Pump,Jill,Moving,Y,N2V,HRV System
+520472,2023-06-12,Whole House Protection,Jill,Unused,N,N2A,"Duct Cleaning, Gas Fireplace, Humidifier"
+630216,2023-12-05,VIP Standard - AC/Heat Pump,Jane,Bad Customer Service,Y,N2H,"Gas Fireplace, Tankless, Water Heater, Humidifier, HRV System"
+313161,2023-07-19,VIP Standard - AC/Heat Pump,Jill,Price,Y,N2K,"Duct Cleaning, Water Heater, Gas Fireplace, HRV System, Humidifier, Ductless System, Boiler System, Tankless"
+228117,2023-05-05,VIP Essential,Jill,Unused,Y,N2N,"Boiler System, Duct Cleaning, Gas Fireplace, HRV System, Ductless System, Tankless, Water Heater, Humidifier"
+601733,2023-03-31,VIP Standard - AC/Heat Pump,Jane,Price,N,N2L,"Ductless System, HRV System"
+920836,2023-12-07,VIP Essential,Bob,Unused,Y,N2G,Humidifier
+277050,2023-12-22,VIP Standard - Furnace,Jane,Bad Customer Service,N,N2G,Duct Cleaning
+974125,2023-05-05,VIP Standard - Furnace & AC/Heat Pump,Jack,Bad Customer Service,Y,N2T,"Ductless System, Gas Fireplace"
+609058,2023-09-19,VIP Standard - Furnace & AC/Heat Pump,Bob,Unused,Y,N2H,"Humidifier, Duct Cleaning, HRV System, Ductless System, Boiler System"
+760586,2023-06-09,VIP Standard - Furnace & AC/Heat Pump,Jane,Bad Customer Service,N,N2C,"Humidifier, Water Heater, Boiler System, Ductless System, Duct Cleaning, Tankless, HRV System"
+740195,2023-01-10,VIP Standard - Furnace,Bob,Moving,Y,N2V,"Gas Fireplace, Humidifier, Boiler System, Water Heater, Tankless"
+358910,2023-02-10,Whole House Protection,Jill,Price,Y,N2C,Humidifier
+234411,2023-02-15,VIP Essential,Bob,Price,N,N2K,"HRV System, Water Heater"
+926747,2023-12-14,VIP Standard - AC/Heat Pump,Jane,Bad Customer Service,Y,N2B,"HRV System, Ductless System, Water Heater, Tankless, Gas Fireplace, Boiler System, Humidifier, Duct Cleaning"
+144425,2023-04-05,Whole House Protection,Jack,Moving,N,N2M,Boiler System
+947193,2023-09-28,VIP Standard - Furnace,Jack,Moving,Y,N2J,"Gas Fireplace, Water Heater, Duct Cleaning, Ductless System, Humidifier, Boiler System"
+468659,2023-10-30,VIP Essential,Bob,Moving,N,N2H,"Gas Fireplace, Tankless, HRV System, Humidifier, Duct Cleaning"
+968776,2023-01-18,VIP Standard - Furnace & AC/Heat Pump,Jane,Unused,Y,N2L,"Ductless System, Duct Cleaning, Gas Fireplace, HRV System, Water Heater, Humidifier, Boiler System, Tankless"
+418222,2023-11-02,VIP Standard - Furnace & AC/Heat Pump,Jill,Moving,Y,N2N,"HRV System, Water Heater"
+301716,2023-09-26,Whole House Protection,Jane,Price,Y,N2R,"Ductless System, Gas Fireplace, Boiler System, HRV System, Duct Cleaning, Humidifier, Tankless"
+147635,2023-04-07,VIP Standard - Furnace,Jack,Bad Customer Service,Y,N2J,"Humidifier, Gas Fireplace, Tankless, Ductless System, HRV System, Boiler System"
+717722,2023-03-01,VIP Standard - AC/Heat Pump,Jane,Price,N,N2B,"Boiler System, Gas Fireplace, Ductless System"
+847095,2023-06-30,VIP Standard - Furnace & AC/Heat Pump,Jack,Unused,N,N2L,"Water Heater, Boiler System, Ductless System, Duct Cleaning, Gas Fireplace, Tankless"
+279199,2023-10-23,VIP Essential,Jack,Price,N,N2J,"Water Heater, HRV System"
+949958,2023-06-07,VIP Essential,Jill,Moving,Y,N2H,"Gas Fireplace, Humidifier, Tankless, HRV System, Duct Cleaning, Water Heater"
+467228,2023-09-12,VIP Essential,Jill,Price,Y,N2L,
+110795,2023-12-28,Whole House Protection,Jack,Moving,Y,N2T,"Gas Fireplace, Boiler System, HRV System, Duct Cleaning, Ductless System"
+988849,2023-11-13,VIP Standard - Furnace & AC/Heat Pump,Jill,Bad Customer Service,Y,N2R,"Boiler System, Tankless"
+697889,2023-01-19,VIP Standard - Furnace,Bob,Bad Customer Service,Y,N2K,
+895682,2023-04-04,VIP Standard - AC/Heat Pump,Jill,Price,N,N2L,"Humidifier, HRV System, Boiler System, Tankless, Duct Cleaning, Gas Fireplace, Ductless System"
+829861,2023-02-23,VIP Standard - Furnace,Jane,Price,Y,N2N,"Gas Fireplace, Duct Cleaning, Water Heater, Ductless System, HRV System, Boiler System"
+781246,2023-09-21,VIP Essential,Jack,Unused,N,N2J,
+367019,2023-12-04,Whole House Protection,Jill,Bad Customer Service,Y,N2H,HRV System
+303454,2023-04-14,VIP Standard - AC/Heat Pump,Jill,Unused,N,N2T,
+989497,2023-12-11,Whole House Protection,Jane,Price,N,N2V,"Ductless System, Gas Fireplace, Tankless, Humidifier, Duct Cleaning, HRV System, Water Heater, Boiler System"
+195907,2023-04-03,Whole House Protection,Bob,Unused,N,N2K,"Boiler System, Water Heater, Gas Fireplace"
+266494,2023-07-14,VIP Standard - Furnace & AC/Heat Pump,Jack,Bad Customer Service,N,N2N,"Boiler System, Water Heater, Humidifier, Ductless System, HRV System, Duct Cleaning, Tankless, Gas Fireplace"
+579189,2023-03-27,VIP Essential,Jack,Bad Customer Service,N,N2B,"Water Heater, Gas Fireplace, Boiler System"
+874281,2023-06-07,Whole House Protection,Jill,Price,N,N2J,"Ductless System, Tankless, Boiler System, Gas Fireplace, Duct Cleaning, Humidifier, HRV System"
+266969,2023-08-29,VIP Standard - Furnace & AC/Heat Pump,Bob,Price,N,N2L,"Tankless, Gas Fireplace, Boiler System, Duct Cleaning, Water Heater, HRV System, Humidifier, Ductless System"
+937797,2023-10-03,VIP Standard - Furnace,Jack,Unused,N,N2N,"Humidifier, HRV System, Duct Cleaning, Tankless, Ductless System, Gas Fireplace, Water Heater"
+885533,2023-03-13,VIP Standard - Furnace,Jane,Moving,N,N2R,"Duct Cleaning, Tankless, Water Heater"
+369125,2023-07-06,VIP Standard - Furnace,Bob,Moving,Y,N2B,"Tankless, Ductless System, Water Heater, Humidifier, HRV System"
+250277,2023-07-18,VIP Standard - AC/Heat Pump,Jill,Moving,N,N2T,"Humidifier, Boiler System, Gas Fireplace, Tankless, Water Heater"
+963937,2023-10-16,VIP Standard - AC/Heat Pump,Bob,Bad Customer Service,Y,N2M,"Gas Fireplace, Boiler System, HRV System, Humidifier, Duct Cleaning, Ductless System"
+171585,2023-09-04,VIP Standard - Furnace,Jack,Unused,N,N2C,"Water Heater, Duct Cleaning"
+249449,2023-09-06,VIP Standard - Furnace & AC/Heat Pump,Jill,Price,Y,N2K,Humidifier
+908357,2023-03-17,VIP Essential,Jill,Bad Customer Service,Y,N2R,HRV System
+315724,2023-12-08,Whole House Protection,Bob,Bad Customer Service,Y,N2L,"Ductless System, Tankless, Humidifier, HRV System"
+312475,2023-11-09,Whole House Protection,Jill,Price,N,N2L,"Humidifier, Ductless System, HRV System, Duct Cleaning, Gas Fireplace, Water Heater, Tankless"
+386648,2023-04-18,VIP Standard - AC/Heat Pump,Jack,Price,Y,N2A,"Gas Fireplace, Duct Cleaning, Water Heater, Tankless, Ductless System, Humidifier, HRV System, Boiler System"
+792819,2023-10-31,Whole House Protection,Jack,Bad Customer Service,Y,N2H,"Water Heater, Boiler System, Gas Fireplace, Humidifier, HRV System, Ductless System, Duct Cleaning"
+479978,2023-12-21,Whole House Protection,Jane,Unused,Y,N2T,Tankless
+813781,2023-03-15,VIP Essential,Jill,Unused,Y,N2C,Tankless
+276545,2023-07-17,VIP Standard - AC/Heat Pump,Bob,Moving,Y,N2E,
+437831,2023-06-29,VIP Essential,Jack,Price,Y,N2M,Tankless
+323837,2023-12-19,VIP Standard - AC/Heat Pump,Jane,Bad Customer Service,N,N2P,
+106921,2023-07-12,VIP Standard - AC/Heat Pump,Jill,Moving,Y,N2C,"Humidifier, Duct Cleaning, Ductless System, HRV System, Boiler System, Tankless"
+886903,2023-07-14,VIP Standard - Furnace,Jane,Bad Customer Service,N,N2P,"Humidifier, Water Heater, HRV System, Duct Cleaning, Gas Fireplace"
+347419,2023-06-28,VIP Standard - Furnace & AC/Heat Pump,Jane,Bad Customer Service,N,N2T,
+775293,2023-12-14,VIP Standard - AC/Heat Pump,Bob,Moving,N,N2N,"Tankless, Boiler System, Gas Fireplace, Water Heater, Humidifier, HRV System"
+528878,2023-03-27,VIP Essential,Jill,Bad Customer Service,N,N2B,"HRV System, Tankless, Duct Cleaning, Boiler System, Humidifier, Water Heater"
+943596,2023-09-11,VIP Standard - Furnace & AC/Heat Pump,Jane,Unused,N,N2L,"HRV System, Gas Fireplace, Boiler System, Duct Cleaning, Water Heater, Humidifier, Tankless"
+748038,2023-11-01,VIP Standard - Furnace,Jill,Price,N,N2M,"Ductless System, Boiler System, HRV System, Water Heater, Duct Cleaning"
+511219,2023-12-28,VIP Essential,Jack,Unused,Y,N2B,"Ductless System, Water Heater, HRV System, Humidifier, Tankless"
+344944,2023-12-28,VIP Essential,Jack,Unused,N,N2P,"Ductless System, Duct Cleaning, Water Heater, Tankless, Boiler System"
+498404,2023-03-20,Whole House Protection,Bob,Price,N,N2P,"HRV System, Duct Cleaning, Gas Fireplace, Water Heater"
+204159,2023-02-09,VIP Essential,Jill,Moving,N,N2G,"Humidifier, Water Heater, Gas Fireplace, Boiler System, Tankless, Ductless System"
+106404,2023-06-02,Whole House Protection,Jack,Price,Y,N2G,
+898385,2023-07-03,VIP Standard - Furnace,Jane,Price,N,N2B,"Duct Cleaning, HRV System, Water Heater, Ductless System, Tankless"
+349494,2023-09-20,VIP Essential,Jack,Price,Y,N2J,"Ductless System, Duct Cleaning, Water Heater, HRV System, Gas Fireplace, Boiler System, Tankless"
+383232,2023-10-10,VIP Standard - Furnace & AC/Heat Pump,Jack,Price,Y,N2A,Humidifier
+706425,2023-07-10,VIP Essential,Jane,Bad Customer Service,Y,N2B,"Duct Cleaning, Tankless, Water Heater, Boiler System, Ductless System, HRV System, Humidifier, Gas Fireplace"
+578326,2023-12-08,VIP Standard - Furnace,Jack,Bad Customer Service,N,N2A,"HRV System, Tankless"
+173178,2023-01-23,VIP Standard - Furnace & AC/Heat Pump,Jack,Moving,N,N2B,"Ductless System, Duct Cleaning, Gas Fireplace, HRV System"
+920792,2023-03-07,Whole House Protection,Jane,Moving,Y,N2N,"Water Heater, Ductless System"
+344135,2023-08-07,Whole House Protection,Jack,Unused,N,N2J,"Water Heater, Tankless, Gas Fireplace, Ductless System"
+232613,2023-06-15,VIP Standard - Furnace,Jill,Moving,Y,N2R,"Gas Fireplace, Duct Cleaning, Boiler System, Tankless, HRV System, Water Heater, Humidifier, Ductless System"
+610666,2023-09-21,VIP Standard - Furnace & AC/Heat Pump,Jack,Price,Y,N2C,Gas Fireplace
+851781,2023-05-11,VIP Standard - AC/Heat Pump,Jane,Price,Y,N2M,HRV System
+247404,2023-04-12,VIP Standard - Furnace & AC/Heat Pump,Bob,Unused,N,N2V,"Ductless System, HRV System, Boiler System, Water Heater, Humidifier, Gas Fireplace, Tankless"
+700692,2023-05-08,VIP Standard - Furnace,Jane,Bad Customer Service,Y,N2T,"Water Heater, Tankless, Gas Fireplace, Humidifier, Boiler System, Ductless System, HRV System, Duct Cleaning"
+208852,2023-05-10,VIP Essential,Jill,Bad Customer Service,Y,N2M,"Duct Cleaning, Gas Fireplace, Ductless System"
+227406,2023-05-17,Whole House Protection,Jill,Bad Customer Service,Y,N2H,
+373774,2023-07-17,VIP Essential,Jack,Price,Y,N2B,Ductless System
+752773,2023-11-27,VIP Standard - Furnace,Jill,Unused,N,N2T,"Water Heater, Duct Cleaning, Humidifier, Ductless System, Gas Fireplace"
+904211,2023-08-03,VIP Standard - Furnace & AC/Heat Pump,Jill,Price,N,N2J,"Humidifier, Water Heater, Gas Fireplace, Boiler System, Ductless System, Tankless"
+735405,2023-08-22,VIP Standard - Furnace & AC/Heat Pump,Bob,Bad Customer Service,N,N2B,"Tankless, Water Heater, Duct Cleaning, Humidifier"
+897500,2023-07-11,VIP Standard - AC/Heat Pump,Jill,Bad Customer Service,Y,N2C,"Water Heater, Ductless System"
+510290,2023-05-19,VIP Standard - AC/Heat Pump,Jill,Price,N,N2V,"Tankless, HRV System, Ductless System"
+193416,2023-11-13,VIP Essential,Jack,Bad Customer Service,Y,N2J,"Ductless System, Water Heater"
+850882,2023-04-06,VIP Standard - Furnace,Jack,Unused,Y,N2H,"Humidifier, Water Heater, Duct Cleaning, HRV System, Boiler System, Tankless"
+790329,2023-12-21,VIP Standard - Furnace,Jack,Bad Customer Service,Y,N2G,"HRV System, Tankless, Ductless System, Boiler System, Gas Fireplace"
+960422,2023-11-15,VIP Essential,Jack,Bad Customer Service,N,N2M,"Water Heater, HRV System, Duct Cleaning, Boiler System, Gas Fireplace, Tankless, Humidifier"
+408579,2023-11-20,VIP Standard - Furnace & AC/Heat Pump,Bob,Price,Y,N2N,"Boiler System, Water Heater, Ductless System"
+828385,2023-07-05,VIP Standard - Furnace & AC/Heat Pump,Jill,Moving,N,N2N,
+811594,2023-07-26,VIP Standard - AC/Heat Pump,Bob,Moving,Y,N2H,"Boiler System, Water Heater"
+652919,2023-09-06,VIP Standard - Furnace & AC/Heat Pump,Jack,Moving,Y,N2K,"Tankless, Ductless System, Boiler System, Gas Fireplace, HRV System, Water Heater, Humidifier"
+217399,2023-05-10,Whole House Protection,Jane,Unused,N,N2R,"Gas Fireplace, Duct Cleaning, Tankless, Humidifier, HRV System"
+106988,2023-11-14,VIP Essential,Jill,Moving,Y,N2L,"Gas Fireplace, Water Heater, Boiler System, Humidifier, Tankless, HRV System, Ductless System, Duct Cleaning"
+476208,2023-07-04,VIP Essential,Bob,Price,N,N2R,
+351867,2023-12-04,VIP Standard - Furnace,Bob,Bad Customer Service,N,N2J,
+683236,2023-11-14,VIP Standard - Furnace & AC/Heat Pump,Bob,Moving,Y,N2T,"Duct Cleaning, Ductless System, Boiler System"
+745878,2023-05-15,VIP Standard - Furnace & AC/Heat Pump,Bob,Bad Customer Service,N,N2G,"Tankless, HRV System, Gas Fireplace, Duct Cleaning, Boiler System, Ductless System"
+582095,2023-07-24,VIP Essential,Jill,Moving,N,N2M,"Water Heater, Tankless, Gas Fireplace, Duct Cleaning, Boiler System"
+608371,2023-03-23,Whole House Protection,Jill,Bad Customer Service,N,N2B,"Duct Cleaning, Boiler System, Ductless System, Water Heater, Gas Fireplace, Tankless"
+493157,2023-11-14,Whole House Protection,Jill,Unused,Y,N2C,"Duct Cleaning, Ductless System, Humidifier"
+538059,2023-05-26,VIP Standard - Furnace & AC/Heat Pump,Jack,Moving,N,N2N,"Tankless, Ductless System, Boiler System, Humidifier, Duct Cleaning, HRV System, Water Heater"
+381223,2023-03-31,VIP Essential,Jack,Unused,N,N2C,
+992563,2023-06-21,VIP Standard - Furnace,Jane,Price,N,N2P,"Gas Fireplace, Tankless, Boiler System, Duct Cleaning, Humidifier, HRV System"
+434223,2023-05-31,VIP Standard - Furnace,Jane,Price,Y,N2G,"Water Heater, Tankless, Duct Cleaning, Gas Fireplace, Boiler System, Humidifier"
+831824,2023-01-17,VIP Essential,Bob,Moving,Y,N2T,"Humidifier, Duct Cleaning, Ductless System, Gas Fireplace, Boiler System, HRV System, Tankless, Water Heater"
+848810,2023-06-01,VIP Standard - AC/Heat Pump,Jane,Moving,Y,N2K,"HRV System, Ductless System, Duct Cleaning"
+787906,2023-10-12,VIP Standard - Furnace & AC/Heat Pump,Jack,Moving,Y,N2P,"Duct Cleaning, Boiler System, HRV System, Tankless, Ductless System, Humidifier"
+474422,2023-11-02,VIP Standard - Furnace & AC/Heat Pump,Bob,Moving,Y,N2V,"Humidifier, Gas Fireplace, Tankless, HRV System, Ductless System, Water Heater, Duct Cleaning"
+348883,2023-09-04,Whole House Protection,Bob,Unused,N,N2V,"HRV System, Tankless, Gas Fireplace, Water Heater, Duct Cleaning, Ductless System, Humidifier, Boiler System"
+301525,2023-03-29,Whole House Protection,Jane,Bad Customer Service,N,N2L,
+457854,2023-10-31,VIP Standard - Furnace & AC/Heat Pump,Bob,Moving,Y,N2N,
+822477,2023-05-08,VIP Standard - Furnace & AC/Heat Pump,Jane,Price,N,N2R,"Water Heater, Duct Cleaning, Tankless"
+721265,2023-02-14,VIP Standard - Furnace & AC/Heat Pump,Bob,Price,Y,N2R,"HRV System, Water Heater, Duct Cleaning, Ductless System, Boiler System"
+685012,2023-06-30,VIP Essential,Jack,Moving,Y,N2H,HRV System
+108641,2023-05-02,Whole House Protection,Jack,Unused,N,N2P,Tankless
+919807,2023-03-16,VIP Essential,Jack,Unused,Y,N2R,"Ductless System, Gas Fireplace, Tankless, Duct Cleaning, HRV System, Humidifier"
+392777,2023-07-05,VIP Standard - Furnace,Jack,Unused,N,N2J,"Humidifier, Gas Fireplace"
+754963,2023-04-14,VIP Essential,Bob,Price,Y,N2A,"Ductless System, Duct Cleaning, Humidifier, Boiler System, HRV System, Water Heater, Gas Fireplace, Tankless"
+424555,2023-10-27,VIP Standard - Furnace & AC/Heat Pump,Bob,Unused,Y,N2R,"Boiler System, Ductless System, Humidifier, Gas Fireplace, Water Heater, Tankless, Duct Cleaning, HRV System"
+333980,2023-02-16,Whole House Protection,Jane,Price,N,N2R,"Water Heater, Ductless System, HRV System, Duct Cleaning, Tankless, Humidifier"
+335279,2023-08-08,VIP Standard - Furnace & AC/Heat Pump,Jane,Unused,Y,N2B,"Boiler System, Duct Cleaning, HRV System, Tankless, Water Heater, Ductless System, Gas Fireplace"
+118979,2023-06-05,VIP Standard - Furnace,Jane,Moving,N,N2R,"Water Heater, Gas Fireplace"
+844581,2023-02-02,VIP Standard - Furnace,Jill,Bad Customer Service,Y,N2G,"Gas Fireplace, Tankless, Duct Cleaning"
+415462,2023-07-26,VIP Essential,Jill,Price,N,N2J,"Humidifier, Boiler System, Gas Fireplace, Tankless, HRV System, Water Heater"
+928905,2023-06-01,VIP Standard - Furnace & AC/Heat Pump,Jack,Unused,Y,N2T,"Boiler System, Water Heater, Duct Cleaning, Humidifier"
+824047,2023-12-01,VIP Standard - Furnace & AC/Heat Pump,Bob,Moving,N,N2K,"Water Heater, Ductless System, HRV System, Humidifier, Gas Fireplace"
+457516,2023-02-02,Whole House Protection,Jane,Bad Customer Service,N,N2A,"Tankless, Humidifier"
+422986,2023-07-14,VIP Standard - AC/Heat Pump,Jane,Price,N,N2M,"Duct Cleaning, Boiler System, Water Heater"
+835033,2023-09-14,VIP Standard - Furnace,Jill,Unused,N,N2V,Gas Fireplace
+959220,2023-08-02,VIP Standard - AC/Heat Pump,Jack,Moving,Y,N2T,"Humidifier, Ductless System"
+868741,2023-07-11,VIP Standard - Furnace,Jack,Bad Customer Service,Y,N2A,"Gas Fireplace, Humidifier, Water Heater, Boiler System, Duct Cleaning"
+960539,2023-09-08,VIP Standard - Furnace,Jack,Price,N,N2C,"Duct Cleaning, Water Heater, Humidifier, Gas Fireplace, Boiler System, HRV System, Tankless"
+478692,2023-02-07,VIP Standard - Furnace,Jane,Price,Y,N2H,"Tankless, Gas Fireplace, Ductless System, Water Heater, Humidifier, HRV System, Duct Cleaning, Boiler System"
+122227,2023-08-23,Whole House Protection,Jill,Bad Customer Service,Y,N2M,Boiler System
+572212,2023-01-19,Whole House Protection,Bob,Price,N,N2K,
+575343,2023-04-28,VIP Essential,Jill,Unused,N,N2N,
+102655,2023-02-03,VIP Standard - AC/Heat Pump,Jack,Unused,Y,N2N,"Duct Cleaning, Ductless System, Humidifier, Tankless, Boiler System"
+980276,2023-07-14,VIP Standard - Furnace & AC/Heat Pump,Jane,Bad Customer Service,N,N2E,"Humidifier, Duct Cleaning, Ductless System, HRV System, Gas Fireplace"
+174827,2023-04-07,VIP Standard - Furnace & AC/Heat Pump,Jane,Moving,Y,N2K,"Water Heater, Duct Cleaning, HRV System, Ductless System, Tankless, Boiler System, Gas Fireplace, Humidifier"
+103247,2023-11-27,VIP Essential,Jane,Unused,N,N2J,"HRV System, Gas Fireplace, Ductless System, Humidifier, Tankless, Duct Cleaning"
+976456,2023-07-10,Whole House Protection,Jane,Bad Customer Service,N,N2L,"Boiler System, Ductless System, Duct Cleaning, Humidifier, Water Heater, HRV System, Tankless"
+943880,2023-06-01,Whole House Protection,Jane,Bad Customer Service,Y,N2B,
+430698,2023-12-22,Whole House Protection,Jill,Moving,Y,N2K,HRV System
+185895,2023-04-03,VIP Essential,Jack,Unused,N,N2L,"Tankless, Boiler System, Gas Fireplace, HRV System, Duct Cleaning, Ductless System, Humidifier, Water Heater"
+728437,2023-01-16,VIP Standard - Furnace,Jane,Price,N,N2R,"Tankless, Gas Fireplace, Boiler System, Ductless System, Duct Cleaning, HRV System, Water Heater, Humidifier"
+714076,2023-09-01,VIP Standard - Furnace,Jill,Price,Y,N2T,"Humidifier, Duct Cleaning, Tankless, HRV System, Ductless System, Gas Fireplace, Water Heater, Boiler System"
+335982,2023-02-24,Whole House Protection,Jane,Unused,N,N2E,"Water Heater, Humidifier, Duct Cleaning, HRV System, Gas Fireplace, Ductless System, Tankless, Boiler System"
+717301,2023-03-01,VIP Standard - AC/Heat Pump,Bob,Moving,N,N2G,"Ductless System, Gas Fireplace, HRV System, Duct Cleaning, Tankless, Humidifier, Boiler System, Water Heater"
+602076,2023-06-29,VIP Standard - Furnace & AC/Heat Pump,Jane,Bad Customer Service,Y,N2M,Gas Fireplace
+941075,2023-10-23,VIP Standard - Furnace & AC/Heat Pump,Jill,Bad Customer Service,N,N2T,
+431303,2023-12-06,VIP Standard - Furnace,Jane,Price,Y,N2T,"Gas Fireplace, Boiler System, Tankless, Humidifier, Ductless System, HRV System"
+823747,2023-10-04,VIP Essential,Bob,Moving,Y,N2P,"Water Heater, Boiler System, Ductless System"
+309205,2023-02-27,VIP Standard - AC/Heat Pump,Jill,Price,Y,N2B,HRV System
+162022,2023-08-31,VIP Standard - Furnace & AC/Heat Pump,Jane,Moving,Y,N2B,"Duct Cleaning, Tankless, HRV System"
+502452,2023-05-24,VIP Standard - Furnace,Bob,Moving,Y,N2P,"Ductless System, Water Heater, HRV System, Humidifier, Tankless"
+850712,2023-07-19,VIP Standard - Furnace,Bob,Unused,Y,N2B,"Gas Fireplace, Humidifier, Water Heater, Duct Cleaning, Boiler System, Tankless"
+288698,2023-11-01,VIP Essential,Jane,Price,N,N2G,"Tankless, Duct Cleaning, Ductless System, Boiler System, Gas Fireplace, Water Heater, Humidifier"
+303799,2023-09-28,VIP Standard - AC/Heat Pump,Jill,Bad Customer Service,N,N2H,"Ductless System, HRV System, Water Heater, Gas Fireplace"
+622577,2023-01-19,VIP Essential,Bob,Unused,N,N2P,
+147574,2023-08-31,VIP Standard - Furnace & AC/Heat Pump,Jack,Bad Customer Service,Y,N2L,Boiler System
+527168,2023-04-10,VIP Standard - Furnace,Bob,Unused,N,N2H,"Water Heater, HRV System, Ductless System, Boiler System, Gas Fireplace, Humidifier, Tankless"
+623231,2023-03-31,VIP Standard - Furnace,Jill,Bad Customer Service,Y,N2M,"Humidifier, Tankless"
+437171,2023-04-21,VIP Standard - Furnace,Jack,Unused,Y,N2G,"HRV System, Duct Cleaning, Humidifier, Tankless, Ductless System"
+140289,2023-10-27,VIP Standard - Furnace,Jack,Moving,N,N2G,
+849798,2023-02-23,VIP Standard - Furnace & AC/Heat Pump,Jack,Unused,N,N2K,"Ductless System, HRV System, Gas Fireplace, Tankless, Boiler System, Duct Cleaning"
+275609,2023-06-09,VIP Standard - AC/Heat Pump,Jane,Moving,Y,N2E,"Gas Fireplace, Ductless System, Humidifier, Duct Cleaning, Water Heater, Boiler System, Tankless"
+463545,2023-04-27,VIP Standard - AC/Heat Pump,Jane,Moving,N,N2M,"Gas Fireplace, Water Heater, Humidifier, Boiler System, Ductless System, HRV System"
+725604,2023-06-02,Whole House Protection,Jack,Moving,N,N2G,"Humidifier, HRV System, Duct Cleaning, Gas Fireplace"
+188606,2023-08-14,VIP Standard - Furnace & AC/Heat Pump,Jack,Unused,Y,N2B,"Humidifier, HRV System, Tankless, Boiler System, Ductless System, Water Heater, Gas Fireplace"
+347959,2023-12-22,VIP Standard - Furnace & AC/Heat Pump,Jack,Bad Customer Service,Y,N2C,"Tankless, Boiler System, HRV System, Humidifier, Ductless System, Duct Cleaning, Water Heater, Gas Fireplace"
+179166,2023-08-28,VIP Essential,Jill,Moving,Y,N2B,"Boiler System, Humidifier, HRV System, Gas Fireplace, Ductless System, Duct Cleaning, Water Heater"
+378623,2023-12-26,Whole House Protection,Jack,Price,N,N2R,"Tankless, Ductless System, Water Heater"
+506280,2023-08-02,VIP Standard - Furnace & AC/Heat Pump,Jill,Moving,Y,N2R,"Water Heater, Tankless, Humidifier, HRV System, Ductless System"
+113452,2023-05-12,VIP Essential,Jack,Unused,N,N2J,"HRV System, Boiler System, Water Heater, Ductless System, Humidifier"
+388879,2023-01-04,VIP Essential,Jill,Bad Customer Service,Y,N2E,"Humidifier, Boiler System, Duct Cleaning, Ductless System"
+136946,2023-11-09,VIP Essential,Jack,Price,Y,N2P,"HRV System, Ductless System, Humidifier, Boiler System, Water Heater, Duct Cleaning, Gas Fireplace, Tankless"
+918579,2023-01-13,VIP Essential,Bob,Bad Customer Service,N,N2C,"Duct Cleaning, Gas Fireplace, Humidifier"
+313398,2023-12-13,Whole House Protection,Jack,Price,Y,N2K,"Gas Fireplace, Boiler System"
+744406,2023-02-08,VIP Standard - Furnace,Jack,Moving,Y,N2B,
+555246,2023-08-28,Whole House Protection,Jill,Unused,N,N2G,"Humidifier, Duct Cleaning, Tankless, Boiler System, Ductless System, HRV System"
+172538,2023-09-18,VIP Standard - Furnace & AC/Heat Pump,Jill,Bad Customer Service,N,N2E,
+893237,2023-08-17,Whole House Protection,Jack,Price,Y,N2R,"HRV System, Ductless System, Gas Fireplace, Duct Cleaning, Boiler System, Tankless, Water Heater"
+234375,2023-01-11,VIP Standard - AC/Heat Pump,Jack,Bad Customer Service,Y,N2N,"Gas Fireplace, Duct Cleaning, Humidifier"
+286291,2023-09-20,VIP Standard - Furnace,Bob,Unused,N,N2N,"Water Heater, Duct Cleaning"
+972032,2023-11-16,VIP Essential,Bob,Price,Y,N2T,"Water Heater, Humidifier, Duct Cleaning, Gas Fireplace, Tankless"
+110654,2023-08-31,VIP Standard - Furnace,Jack,Unused,Y,N2C,"Tankless, Duct Cleaning, Humidifier, Gas Fireplace"
+938559,2023-04-24,VIP Standard - Furnace,Jane,Bad Customer Service,Y,N2K,"Gas Fireplace, Ductless System, Water Heater, HRV System, Humidifier, Duct Cleaning, Tankless"
+452014,2023-01-10,Whole House Protection,Jack,Price,N,N2E,"Boiler System, Tankless, HRV System, Duct Cleaning, Humidifier"
+131733,2023-03-21,VIP Standard - Furnace,Jack,Price,Y,N2E,Duct Cleaning
+902136,2023-08-03,VIP Standard - Furnace & AC/Heat Pump,Bob,Moving,Y,N2V,"Gas Fireplace, HRV System, Water Heater, Ductless System, Tankless, Humidifier, Boiler System, Duct Cleaning"
+885773,2023-01-17,VIP Standard - AC/Heat Pump,Jack,Price,N,N2V,"Humidifier, Tankless, Gas Fireplace"
+911935,2023-11-24,VIP Essential,Jane,Price,Y,N2G,Ductless System
+750866,2023-05-17,VIP Essential,Jack,Unused,Y,N2N,Tankless
+467256,2023-09-06,Whole House Protection,Bob,Unused,Y,N2B,"Boiler System, HRV System, Tankless, Humidifier"
+126502,2023-07-12,VIP Essential,Jane,Unused,Y,N2G,"Ductless System, HRV System, Humidifier"
+640631,2023-09-18,VIP Standard - Furnace & AC/Heat Pump,Jane,Price,N,N2P,"Ductless System, HRV System, Duct Cleaning, Boiler System, Water Heater, Tankless, Humidifier, Gas Fireplace"
+892753,2023-08-18,VIP Standard - Furnace & AC/Heat Pump,Jill,Unused,N,N2L,"Water Heater, Gas Fireplace, Boiler System, Tankless"
+208726,2023-05-22,VIP Standard - AC/Heat Pump,Jane,Unused,N,N2M,"Humidifier, Duct Cleaning, Water Heater, Tankless, Gas Fireplace, Boiler System, HRV System"
+654929,2023-05-31,Whole House Protection,Jill,Price,Y,N2V,
+548719,2023-09-13,Whole House Protection,Jack,Bad Customer Service,N,N2A,"Tankless, Humidifier, Water Heater, HRV System, Duct Cleaning, Boiler System, Gas Fireplace, Ductless System"
+415463,2023-09-14,VIP Standard - Furnace & AC/Heat Pump,Bob,Price,N,N2M,"Humidifier, Boiler System, Gas Fireplace, Water Heater, Ductless System"
+761315,2023-08-17,Whole House Protection,Jane,Price,Y,N2K,"Humidifier, Gas Fireplace"
+223345,2023-10-26,VIP Standard - Furnace,Jack,Moving,N,N2J,"Ductless System, Gas Fireplace, Tankless, HRV System, Water Heater, Duct Cleaning, Boiler System, Humidifier"
+776637,2023-11-06,VIP Essential,Jack,Unused,Y,N2A,"Boiler System, Gas Fireplace"
+165619,2023-05-22,Whole House Protection,Jill,Bad Customer Service,Y,N2K,"Ductless System, HRV System, Gas Fireplace, Duct Cleaning"
+806921,2023-12-15,Whole House Protection,Bob,Bad Customer Service,N,N2J,Duct Cleaning
+243078,2023-03-21,VIP Essential,Jill,Moving,N,N2K,"Duct Cleaning, Boiler System, Water Heater, Gas Fireplace, HRV System, Humidifier, Ductless System"
+497913,2023-04-03,VIP Standard - Furnace & AC/Heat Pump,Jack,Unused,N,N2N,"Tankless, Gas Fireplace, Ductless System, Humidifier, HRV System, Boiler System, Duct Cleaning, Water Heater"
+429168,2023-04-25,Whole House Protection,Jack,Unused,N,N2B,"Duct Cleaning, Boiler System, Gas Fireplace"
+484447,2023-05-31,VIP Standard - AC/Heat Pump,Jack,Price,Y,N2K,
+856186,2023-10-23,Whole House Protection,Jill,Moving,N,N2L,"HRV System, Gas Fireplace, Boiler System, Ductless System, Water Heater, Duct Cleaning, Humidifier"
+405839,2023-10-18,VIP Standard - Furnace,Bob,Unused,Y,N2B,Boiler System
+446181,2023-10-25,VIP Standard - Furnace & AC/Heat Pump,Jack,Unused,N,N2R,"Duct Cleaning, Gas Fireplace, Boiler System, Water Heater, Humidifier, Tankless, HRV System, Ductless System"
+285317,2023-04-21,VIP Essential,Bob,Bad Customer Service,N,N2E,
+426553,2023-08-08,VIP Standard - AC/Heat Pump,Bob,Unused,Y,N2N,
+234679,2023-06-07,Whole House Protection,Bob,Unused,N,N2B,"Boiler System, Water Heater"
+723665,2023-01-25,Whole House Protection,Jack,Price,Y,N2T,"Humidifier, Water Heater, Tankless, Ductless System, Boiler System, Duct Cleaning, HRV System, Gas Fireplace"
+688398,2023-01-03,Whole House Protection,Jill,Moving,N,N2P,"Duct Cleaning, Gas Fireplace, Ductless System"
+895288,2023-04-27,VIP Standard - Furnace & AC/Heat Pump,Jack,Moving,Y,N2A,"Ductless System, Tankless"
+656462,2023-12-19,VIP Essential,Jack,Unused,N,N2L,"Gas Fireplace, HRV System, Water Heater"
+500542,2023-10-11,VIP Essential,Jill,Unused,N,N2E,"Gas Fireplace, Humidifier, Tankless, Boiler System, Water Heater, Ductless System, HRV System"
+949542,2023-11-15,VIP Essential,Bob,Moving,Y,N2H,"Tankless, HRV System, Water Heater"
+846472,2023-11-20,VIP Standard - Furnace,Bob,Unused,Y,N2L,"Humidifier, Ductless System, Water Heater, Duct Cleaning, Boiler System, Gas Fireplace, Tankless, HRV System"
+400198,2023-02-02,VIP Standard - Furnace & AC/Heat Pump,Jill,Moving,N,N2E,"Gas Fireplace, Boiler System"
+140202,2023-04-04,VIP Standard - Furnace,Jill,Bad Customer Service,N,N2R,"Humidifier, Tankless, Ductless System, Gas Fireplace, Boiler System, Duct Cleaning"
+903347,2023-04-06,VIP Standard - Furnace,Jill,Unused,N,N2T,Humidifier
+213435,2023-05-24,VIP Standard - Furnace,Jane,Moving,Y,N2A,Humidifier
+295101,2023-08-21,VIP Standard - Furnace,Jill,Price,N,N2E,"Boiler System, Duct Cleaning, Humidifier, HRV System, Gas Fireplace, Water Heater, Tankless, Ductless System"
+172848,2023-12-22,Whole House Protection,Jack,Unused,N,N2J,"Ductless System, Gas Fireplace, HRV System, Boiler System, Water Heater"
+468906,2023-03-22,Whole House Protection,Bob,Unused,Y,N2L,"Ductless System, Humidifier, Gas Fireplace, Tankless, Boiler System, Duct Cleaning"
+997096,2023-11-29,VIP Standard - AC/Heat Pump,Jill,Price,Y,N2V,"Tankless, Boiler System, HRV System, Humidifier"
+166149,2023-07-03,VIP Essential,Jill,Bad Customer Service,N,N2H,Boiler System
+862809,2023-07-31,VIP Essential,Jill,Price,Y,N2N,"HRV System, Duct Cleaning, Gas Fireplace, Tankless, Ductless System"
+191481,2023-12-26,VIP Standard - Furnace,Jane,Price,Y,N2K,"Tankless, HRV System, Boiler System, Water Heater, Gas Fireplace, Ductless System, Humidifier, Duct Cleaning"
+672151,2023-11-15,Whole House Protection,Jane,Moving,N,N2G,"Duct Cleaning, Gas Fireplace, Water Heater, HRV System, Ductless System, Tankless"
+474758,2023-08-24,VIP Standard - Furnace & AC/Heat Pump,Jane,Unused,Y,N2B,"Tankless, Duct Cleaning, HRV System"
+842268,2023-12-20,VIP Standard - Furnace,Jane,Unused,N,N2E,"Ductless System, Gas Fireplace"
+843497,2023-06-16,VIP Standard - Furnace,Bob,Moving,N,N2R,"Humidifier, Boiler System, Ductless System, HRV System, Duct Cleaning, Gas Fireplace, Water Heater, Tankless"
+682595,2023-09-04,VIP Standard - Furnace,Jill,Moving,Y,N2R,
+877562,2023-02-20,VIP Essential,Jill,Unused,Y,N2K,"Water Heater, HRV System"
+203862,2023-03-16,VIP Standard - AC/Heat Pump,Bob,Moving,Y,N2L,"Ductless System, Boiler System"
+247851,2023-03-15,Whole House Protection,Jane,Unused,Y,N2N,"Humidifier, Ductless System, Water Heater, Boiler System, Gas Fireplace"
+504931,2023-12-12,VIP Standard - Furnace & AC/Heat Pump,Jane,Bad Customer Service,Y,N2H,"Tankless, Gas Fireplace, Ductless System"
+726431,2023-11-09,VIP Standard - Furnace,Jack,Price,Y,N2V,"Tankless, Humidifier, Boiler System, Gas Fireplace, Duct Cleaning, Ductless System"
+998927,2023-05-03,Whole House Protection,Jack,Moving,N,N2P,
+893660,2023-07-12,VIP Standard - Furnace & AC/Heat Pump,Jill,Moving,Y,N2B,"Gas Fireplace, Tankless, Boiler System, Duct Cleaning, Humidifier, HRV System, Ductless System, Water Heater"
+324221,2023-03-21,VIP Essential,Jill,Unused,N,N2P,"Gas Fireplace, Water Heater, HRV System, Duct Cleaning, Boiler System, Humidifier"
+957269,2023-10-26,Whole House Protection,Jane,Unused,Y,N2A,"Humidifier, Gas Fireplace, Water Heater, Boiler System, Duct Cleaning, Tankless"
+498189,2023-02-24,Whole House Protection,Jane,Unused,N,N2P,"HRV System, Humidifier, Duct Cleaning, Boiler System, Tankless, Ductless System"
+128393,2023-06-16,VIP Standard - Furnace & AC/Heat Pump,Jack,Moving,Y,N2E,"Ductless System, HRV System, Duct Cleaning"
+880528,2023-08-29,VIP Essential,Jane,Moving,Y,N2P,"Water Heater, Gas Fireplace, Duct Cleaning, Tankless, Humidifier"
+300958,2023-03-02,VIP Essential,Jill,Bad Customer Service,N,N2G,"HRV System, Water Heater, Humidifier, Gas Fireplace, Ductless System, Boiler System, Tankless, Duct Cleaning"
+558537,2023-02-08,VIP Standard - Furnace & AC/Heat Pump,Jane,Price,Y,N2E,"Water Heater, Duct Cleaning, Boiler System, Tankless, Ductless System"
+655983,2023-01-12,Whole House Protection,Bob,Price,N,N2N,
+833081,2023-08-10,VIP Essential,Jack,Unused,N,N2K,"Duct Cleaning, Ductless System, Water Heater, Gas Fireplace, Humidifier, HRV System, Tankless"
+248106,2023-02-15,VIP Standard - Furnace & AC/Heat Pump,Jane,Moving,N,N2A,Tankless
+104455,2023-08-09,VIP Standard - Furnace & AC/Heat Pump,Jill,Bad Customer Service,Y,N2G,"HRV System, Tankless, Duct Cleaning, Boiler System, Water Heater, Ductless System, Gas Fireplace"
+584535,2023-11-07,VIP Standard - AC/Heat Pump,Bob,Unused,N,N2G,"Tankless, HRV System, Boiler System, Humidifier, Water Heater, Duct Cleaning, Gas Fireplace"
+663894,2023-08-18,VIP Standard - Furnace & AC/Heat Pump,Jack,Unused,Y,N2M,"Gas Fireplace, Ductless System, HRV System, Boiler System"
+381091,2023-02-14,VIP Standard - Furnace,Jane,Bad Customer Service,N,N2C,"Boiler System, Humidifier, Ductless System, Tankless, Duct Cleaning, HRV System, Gas Fireplace"
+671886,2023-01-24,VIP Standard - Furnace,Jill,Bad Customer Service,N,N2M,
+155273,2023-01-02,VIP Standard - Furnace,Jane,Moving,Y,N2E,"Humidifier, Water Heater, Duct Cleaning, Gas Fireplace, HRV System"
+940724,2023-07-14,VIP Standard - Furnace & AC/Heat Pump,Jane,Moving,Y,N2R,HRV System
+471072,2023-10-20,Whole House Protection,Jane,Moving,N,N2E,"HRV System, Humidifier, Tankless, Boiler System, Duct Cleaning, Ductless System, Gas Fireplace, Water Heater"
+106753,2023-02-08,Whole House Protection,Jane,Bad Customer Service,Y,N2T,"Humidifier, Tankless, Water Heater, HRV System, Gas Fireplace, Boiler System, Duct Cleaning, Ductless System"
+544835,2023-08-30,Whole House Protection,Jill,Price,N,N2C,"Gas Fireplace, Duct Cleaning, Tankless, Boiler System"
+671661,2023-08-23,VIP Standard - Furnace,Jack,Bad Customer Service,N,N2A,"Tankless, Water Heater, Humidifier, HRV System, Boiler System, Gas Fireplace"
+340328,2023-07-17,Whole House Protection,Jane,Bad Customer Service,Y,N2V,"Tankless, Ductless System"
+149884,2023-10-20,VIP Standard - Furnace & AC/Heat Pump,Jill,Moving,Y,N2V,"Tankless, HRV System, Humidifier, Water Heater"
+190501,2023-06-26,Whole House Protection,Jill,Bad Customer Service,Y,N2C,"Gas Fireplace, HRV System, Ductless System, Duct Cleaning, Tankless, Humidifier"
+863242,2023-07-14,VIP Standard - Furnace & AC/Heat Pump,Bob,Price,N,N2G,
+117316,2023-11-28,VIP Standard - AC/Heat Pump,Jill,Price,Y,N2R,
+306281,2023-08-21,VIP Essential,Jane,Price,Y,N2K,"HRV System, Gas Fireplace"
+760090,2023-10-06,VIP Standard - AC/Heat Pump,Bob,Moving,Y,N2P,"Gas Fireplace, Ductless System, Water Heater, Boiler System"
+304271,2023-05-11,VIP Essential,Jack,Unused,Y,N2B,"Boiler System, Tankless, HRV System, Ductless System, Humidifier"
+633368,2023-11-14,VIP Standard - Furnace,Jane,Moving,Y,N2L,"HRV System, Boiler System, Tankless, Humidifier, Ductless System, Gas Fireplace, Duct Cleaning"
+119816,2023-06-23,VIP Standard - Furnace,Bob,Price,Y,N2V,"HRV System, Gas Fireplace, Boiler System, Ductless System, Water Heater"
+604519,2023-09-04,Whole House Protection,Jane,Moving,N,N2B,"HRV System, Gas Fireplace, Boiler System, Duct Cleaning, Humidifier"
+667163,2023-01-09,VIP Standard - Furnace,Jack,Moving,Y,N2K,"Gas Fireplace, Ductless System, HRV System"
+154479,2023-05-29,VIP Standard - AC/Heat Pump,Jill,Price,N,N2N,"Ductless System, Duct Cleaning, Water Heater, Gas Fireplace, Tankless, Humidifier, HRV System, Boiler System"
+663596,2023-03-30,Whole House Protection,Jane,Moving,Y,N2M,"Gas Fireplace, Tankless, Ductless System, Humidifier"
+396473,2023-04-03,VIP Standard - Furnace,Jane,Unused,N,N2E,"Boiler System, Water Heater, Ductless System, HRV System, Tankless, Humidifier, Gas Fireplace"
+146891,2023-02-13,VIP Standard - AC/Heat Pump,Bob,Moving,Y,N2R,"HRV System, Ductless System, Water Heater, Tankless, Duct Cleaning"
+757883,2023-01-23,VIP Standard - AC/Heat Pump,Bob,Moving,N,N2K,"HRV System, Tankless, Water Heater, Boiler System, Gas Fireplace, Humidifier, Duct Cleaning"
+594833,2023-10-24,Whole House Protection,Bob,Unused,Y,N2N,"Ductless System, Gas Fireplace, Humidifier, Water Heater, HRV System"
+472937,2023-08-21,Whole House Protection,Bob,Unused,N,N2T,"Gas Fireplace, Boiler System"
+849156,2023-03-03,VIP Essential,Jane,Moving,Y,N2P,"Tankless, HRV System, Duct Cleaning, Boiler System, Humidifier"
+704759,2023-04-24,Whole House Protection,Bob,Unused,Y,N2J,"Gas Fireplace, Ductless System, Humidifier, Water Heater, Duct Cleaning, Boiler System, Tankless"
+266750,2023-03-24,VIP Essential,Jill,Unused,N,N2L,"Gas Fireplace, Water Heater"
+311102,2023-07-05,VIP Standard - Furnace & AC/Heat Pump,Bob,Moving,Y,N2J,"Water Heater, Gas Fireplace"
+901091,2023-04-25,VIP Essential,Jill,Unused,Y,N2N,"Water Heater, Tankless, Humidifier"
+816634,2023-02-20,Whole House Protection,Jill,Unused,Y,N2G,"HRV System, Gas Fireplace, Humidifier, Boiler System, Tankless, Ductless System, Water Heater, Duct Cleaning"
+144440,2023-10-04,VIP Standard - Furnace & AC/Heat Pump,Jane,Unused,N,N2L,"HRV System, Ductless System, Boiler System, Gas Fireplace, Water Heater, Humidifier, Tankless"
+597113,2023-09-20,VIP Standard - AC/Heat Pump,Jill,Price,Y,N2N,
+896863,2023-04-07,VIP Essential,Bob,Moving,N,N2M,
+187065,2023-07-14,VIP Standard - Furnace,Jack,Moving,N,N2V,"Boiler System, Water Heater, HRV System"
+237775,2023-06-08,Whole House Protection,Jack,Moving,Y,N2M,"Tankless, Ductless System, Humidifier, Gas Fireplace, Water Heater"
+915251,2023-03-28,VIP Standard - Furnace & AC/Heat Pump,Jane,Bad Customer Service,N,N2K,"Ductless System, Duct Cleaning"
+733692,2023-12-28,VIP Standard - Furnace,Bob,Moving,Y,N2G,"Ductless System, HRV System, Gas Fireplace, Water Heater, Humidifier, Duct Cleaning, Boiler System"
+171017,2023-08-18,VIP Standard - Furnace & AC/Heat Pump,Bob,Bad Customer Service,N,N2P,"Tankless, Boiler System, Water Heater, Duct Cleaning, HRV System, Gas Fireplace, Humidifier, Ductless System"
+350204,2023-02-21,VIP Standard - Furnace,Bob,Unused,N,N2T,"Ductless System, HRV System, Duct Cleaning, Tankless, Gas Fireplace, Humidifier"
+816337,2023-03-14,VIP Standard - AC/Heat Pump,Jane,Price,N,N2M,"Gas Fireplace, Boiler System, HRV System, Ductless System"
+207490,2023-05-17,VIP Standard - AC/Heat Pump,Jane,Unused,Y,N2G,"Tankless, Boiler System, Duct Cleaning, HRV System"
+466322,2023-08-08,VIP Standard - Furnace,Jack,Unused,Y,N2C,Water Heater
+930936,2023-06-07,VIP Standard - Furnace & AC/Heat Pump,Jill,Unused,N,N2G,"Boiler System, Ductless System"
+106723,2023-08-10,VIP Standard - AC/Heat Pump,Bob,Unused,N,N2N,"Boiler System, HRV System, Duct Cleaning, Humidifier, Ductless System"
+969533,2023-10-30,VIP Standard - Furnace,Jane,Price,Y,N2V,"Tankless, Boiler System, Water Heater"
+459787,2023-02-13,VIP Standard - Furnace & AC/Heat Pump,Jane,Moving,N,N2E,"Water Heater, Duct Cleaning, Tankless, Ductless System, Gas Fireplace, Boiler System, HRV System"
+211280,2023-04-25,VIP Standard - Furnace & AC/Heat Pump,Jill,Unused,Y,N2B,"HRV System, Tankless, Gas Fireplace, Boiler System, Humidifier, Duct Cleaning"
+787991,2023-10-23,VIP Standard - Furnace & AC/Heat Pump,Jill,Bad Customer Service,N,N2E,"Duct Cleaning, Ductless System, HRV System"
+849856,2023-07-12,VIP Standard - Furnace,Jack,Moving,Y,N2J,Gas Fireplace
+227831,2023-04-14,VIP Standard - AC/Heat Pump,Jack,Bad Customer Service,Y,N2M,"Gas Fireplace, Tankless, Ductless System"
+274710,2023-10-17,VIP Essential,Bob,Moving,N,N2M,"Ductless System, Duct Cleaning"
+689205,2023-01-31,VIP Standard - Furnace & AC/Heat Pump,Jack,Price,N,N2P,"HRV System, Tankless, Boiler System, Humidifier, Water Heater"
+923009,2023-01-03,Whole House Protection,Bob,Price,N,N2L,Water Heater
+940810,2023-06-07,VIP Standard - Furnace,Jill,Price,Y,N2K,"Duct Cleaning, Tankless, HRV System, Water Heater"
+158030,2023-11-23,Whole House Protection,Jack,Price,Y,N2M,
+446934,2023-12-11,VIP Standard - AC/Heat Pump,Jane,Unused,Y,N2T,"Boiler System, Gas Fireplace"
+315932,2023-08-18,VIP Standard - Furnace & AC/Heat Pump,Bob,Unused,N,N2E,"Boiler System, Gas Fireplace, Humidifier, Water Heater, Ductless System"
+531005,2023-07-17,VIP Essential,Jane,Price,Y,N2K,
+257918,2023-11-28,VIP Standard - AC/Heat Pump,Jill,Moving,Y,N2B,"Duct Cleaning, Tankless, Humidifier, Water Heater, Gas Fireplace"
+806889,2023-05-18,VIP Standard - AC/Heat Pump,Jane,Price,Y,N2L,"HRV System, Water Heater, Humidifier"
+304230,2023-12-22,VIP Standard - Furnace,Jack,Bad Customer Service,Y,N2G,"Tankless, Boiler System, Humidifier, Gas Fireplace, HRV System, Water Heater"
+820404,2023-12-05,VIP Standard - AC/Heat Pump,Jane,Bad Customer Service,Y,N2M,HRV System
+472074,2023-07-11,VIP Standard - Furnace,Bob,Price,N,N2E,
+212023,2023-12-25,Whole House Protection,Jill,Moving,Y,N2T,"Ductless System, HRV System, Boiler System, Gas Fireplace, Tankless"
+947217,2023-08-07,VIP Standard - AC/Heat Pump,Jill,Moving,N,N2K,"Ductless System, Boiler System"
+105243,2023-06-23,Whole House Protection,Bob,Moving,N,N2L,
+100848,2023-04-26,Whole House Protection,Jane,Unused,N,N2R,
+284885,2023-12-29,Whole House Protection,Bob,Unused,Y,N2H,"Duct Cleaning, Gas Fireplace, Boiler System, Humidifier, Water Heater, HRV System"
+450367,2023-02-28,VIP Standard - Furnace,Jane,Unused,N,N2A,Gas Fireplace
+867889,2023-08-03,VIP Standard - Furnace,Jill,Price,N,N2N,Duct Cleaning
+257951,2023-03-16,VIP Standard - Furnace & AC/Heat Pump,Bob,Price,Y,N2M,"HRV System, Ductless System, Water Heater, Duct Cleaning"
+927058,2023-10-31,VIP Standard - AC/Heat Pump,Bob,Bad Customer Service,N,N2V,"Humidifier, Boiler System, Duct Cleaning, Water Heater, Ductless System, HRV System, Gas Fireplace, Tankless"
+159759,2023-03-23,VIP Essential,Bob,Price,Y,N2B,"Gas Fireplace, Boiler System, Duct Cleaning, Water Heater, HRV System, Tankless, Humidifier, Ductless System"
+372587,2023-10-10,Whole House Protection,Bob,Moving,Y,N2G,"Gas Fireplace, Duct Cleaning"
+849994,2023-08-17,Whole House Protection,Jack,Bad Customer Service,N,N2E,
+552867,2023-05-25,VIP Standard - Furnace & AC/Heat Pump,Jack,Moving,Y,N2A,"HRV System, Tankless, Duct Cleaning, Ductless System, Water Heater, Humidifier"
+873052,2023-05-10,Whole House Protection,Jane,Bad Customer Service,N,N2N,Boiler System
+163258,2023-12-13,VIP Essential,Jane,Unused,Y,N2J,"Gas Fireplace, Water Heater, HRV System, Tankless"
+360420,2023-03-14,VIP Standard - Furnace,Jack,Bad Customer Service,N,N2G,"Water Heater, Humidifier, Boiler System, HRV System"
+665875,2023-01-02,VIP Standard - Furnace & AC/Heat Pump,Jack,Moving,N,N2C,"Humidifier, Tankless, Ductless System, Duct Cleaning, Water Heater, HRV System, Boiler System"
+760087,2023-11-20,VIP Standard - Furnace & AC/Heat Pump,Bob,Unused,Y,N2M,"Tankless, Gas Fireplace, Humidifier, Ductless System, Duct Cleaning"
+343063,2023-02-27,VIP Standard - AC/Heat Pump,Bob,Bad Customer Service,N,N2P,"Humidifier, Duct Cleaning, Water Heater, Boiler System, Ductless System, Gas Fireplace, HRV System, Tankless"
+143381,2023-03-27,VIP Standard - Furnace & AC/Heat Pump,Jill,Bad Customer Service,N,N2J,"Humidifier, Water Heater, Boiler System, Duct Cleaning, HRV System, Ductless System, Gas Fireplace"
+975095,2023-01-03,VIP Standard - Furnace,Jill,Unused,N,N2T,"Gas Fireplace, Ductless System, Water Heater"
+907958,2023-06-09,VIP Standard - Furnace & AC/Heat Pump,Jane,Unused,N,N2G,
+661355,2023-10-04,Whole House Protection,Bob,Bad Customer Service,N,N2H,"Ductless System, Water Heater, Tankless, HRV System, Boiler System, Gas Fireplace"
+508591,2023-09-01,VIP Essential,Jane,Moving,Y,N2R,"Humidifier, Gas Fireplace, Boiler System, Duct Cleaning, Ductless System, Water Heater, Tankless, HRV System"
+246415,2023-03-30,VIP Standard - Furnace & AC/Heat Pump,Jill,Bad Customer Service,N,N2H,"HRV System, Gas Fireplace, Boiler System"
+894436,2023-08-31,VIP Standard - Furnace & AC/Heat Pump,Jack,Price,N,N2G,"Humidifier, Gas Fireplace, Boiler System, HRV System"
+481557,2023-09-25,VIP Essential,Jack,Unused,Y,N2N,"Water Heater, HRV System, Boiler System, Ductless System, Tankless, Humidifier"
+790502,2023-07-05,VIP Standard - AC/Heat Pump,Bob,Unused,Y,N2V,"Tankless, Gas Fireplace, Ductless System"
+250946,2023-08-14,Whole House Protection,Bob,Unused,N,N2P,"HRV System, Tankless"
+166870,2023-02-07,Whole House Protection,Bob,Bad Customer Service,Y,N2N,"Gas Fireplace, Tankless, Duct Cleaning"
+326774,2023-05-19,VIP Standard - AC/Heat Pump,Bob,Price,Y,N2B,
+650365,2023-03-06,VIP Essential,Bob,Moving,Y,N2P,
+765813,2023-10-23,VIP Standard - Furnace,Jill,Bad Customer Service,N,N2P,"HRV System, Boiler System, Humidifier, Ductless System, Gas Fireplace"
+918454,2023-06-08,VIP Standard - Furnace & AC/Heat Pump,Jill,Bad Customer Service,Y,N2P,"Duct Cleaning, Humidifier, Ductless System, Boiler System, Tankless, HRV System"
+830123,2023-11-21,VIP Standard - AC/Heat Pump,Jane,Unused,Y,N2C,"HRV System, Humidifier, Gas Fireplace, Duct Cleaning, Ductless System, Tankless, Boiler System, Water Heater"
+415560,2023-07-24,VIP Essential,Jack,Price,N,N2C,"Boiler System, Humidifier, HRV System, Ductless System, Tankless, Duct Cleaning"
+361803,2023-09-11,Whole House Protection,Jack,Price,N,N2G,
+381012,2023-01-11,VIP Standard - AC/Heat Pump,Bob,Price,Y,N2A,"Water Heater, HRV System, Ductless System, Tankless, Boiler System, Duct Cleaning, Gas Fireplace, Humidifier"
+583451,2023-05-22,VIP Standard - Furnace,Jill,Bad Customer Service,Y,N2H,"Boiler System, Water Heater, Humidifier, Tankless, HRV System, Gas Fireplace, Ductless System, Duct Cleaning"
+665408,2023-06-23,Whole House Protection,Jill,Bad Customer Service,Y,N2T,"Boiler System, Humidifier, HRV System, Duct Cleaning, Ductless System"
+349101,2023-05-09,Whole House Protection,Jane,Unused,Y,N2R,
+468168,2023-10-11,VIP Standard - Furnace & AC/Heat Pump,Jack,Unused,N,N2E,"Boiler System, Gas Fireplace, Water Heater, HRV System, Ductless System"
+277555,2023-11-20,VIP Standard - Furnace & AC/Heat Pump,Bob,Unused,N,N2B,"Boiler System, Water Heater, Duct Cleaning, Humidifier, Ductless System, Gas Fireplace"
+190597,2023-12-12,VIP Essential,Jill,Moving,Y,N2A,"Duct Cleaning, Boiler System, Ductless System, HRV System, Gas Fireplace, Water Heater, Tankless, Humidifier"
+904035,2023-03-22,VIP Standard - AC/Heat Pump,Jack,Price,N,N2J,"Humidifier, Boiler System, Gas Fireplace, Duct Cleaning, Water Heater, Ductless System"
+339598,2023-02-08,VIP Standard - Furnace,Bob,Bad Customer Service,N,N2H,
+114593,2023-10-24,VIP Standard - Furnace & AC/Heat Pump,Bob,Bad Customer Service,N,N2H,"Humidifier, Duct Cleaning, Ductless System, Boiler System, Gas Fireplace"
+767686,2023-07-05,Whole House Protection,Bob,Price,Y,N2J,"Boiler System, Tankless, Gas Fireplace"
+316594,2023-09-20,Whole House Protection,Jane,Price,N,N2C,"Humidifier, Boiler System, Duct Cleaning, Tankless"
+927976,2023-04-28,VIP Standard - AC/Heat Pump,Jane,Price,N,N2E,"Duct Cleaning, Boiler System"
+722672,2023-03-08,VIP Standard - Furnace,Jill,Bad Customer Service,Y,N2M,HRV System
+469427,2023-06-13,VIP Standard - AC/Heat Pump,Jack,Bad Customer Service,N,N2K,"Gas Fireplace, Water Heater, HRV System, Ductless System, Tankless, Boiler System, Humidifier, Duct Cleaning"
+274077,2023-11-16,VIP Standard - Furnace & AC/Heat Pump,Jill,Unused,Y,N2R,"Duct Cleaning, Humidifier, Ductless System, HRV System, Water Heater, Tankless, Gas Fireplace"
+462595,2023-06-21,VIP Standard - Furnace & AC/Heat Pump,Bob,Moving,N,N2C,"Duct Cleaning, Boiler System, Gas Fireplace, Humidifier, HRV System"
+614877,2023-01-31,VIP Standard - AC/Heat Pump,Jill,Price,Y,N2T,"Humidifier, Gas Fireplace, Ductless System, Tankless, Boiler System, Duct Cleaning, HRV System, Water Heater"
+313407,2023-05-25,VIP Standard - Furnace,Jane,Unused,Y,N2M,"Tankless, Humidifier, Water Heater, Duct Cleaning, Boiler System, Gas Fireplace"
+840614,2023-03-22,VIP Standard - Furnace,Jane,Moving,Y,N2N,"Ductless System, Duct Cleaning, Gas Fireplace, Tankless, Humidifier, Boiler System"
+897207,2023-07-24,Whole House Protection,Jane,Moving,Y,N2H,"Gas Fireplace, HRV System, Ductless System, Duct Cleaning"
+144814,2023-10-23,VIP Standard - AC/Heat Pump,Jane,Moving,Y,N2J,"Tankless, Duct Cleaning, HRV System, Water Heater, Ductless System, Gas Fireplace"
+885086,2023-12-21,VIP Standard - Furnace,Jane,Price,N,N2A,"Duct Cleaning, Water Heater, Tankless, Boiler System, Gas Fireplace, Ductless System, HRV System, Humidifier"
+105343,2023-11-17,VIP Standard - AC/Heat Pump,Jane,Bad Customer Service,N,N2N,"HRV System, Water Heater, Ductless System, Boiler System"
+236489,2023-12-15,VIP Standard - Furnace & AC/Heat Pump,Jane,Price,N,N2H,Duct Cleaning
+416851,2023-04-13,VIP Standard - Furnace & AC/Heat Pump,Jill,Moving,Y,N2L,"Gas Fireplace, Duct Cleaning, Boiler System, Tankless, Ductless System"
+769712,2023-09-20,VIP Standard - Furnace,Jill,Moving,Y,N2L,"Water Heater, Duct Cleaning, Ductless System, Tankless, Humidifier"
+705295,2023-05-10,VIP Standard - AC/Heat Pump,Jack,Bad Customer Service,N,N2H,
+139056,2023-05-25,Whole House Protection,Jane,Moving,N,N2C,"Boiler System, HRV System, Duct Cleaning, Ductless System, Water Heater, Tankless, Humidifier, Gas Fireplace"
+342943,2023-09-29,VIP Standard - Furnace,Jane,Bad Customer Service,N,N2V,
+375651,2023-01-27,VIP Standard - Furnace & AC/Heat Pump,Jane,Moving,Y,N2E,"Tankless, Duct Cleaning, Humidifier, Gas Fireplace"
+577136,2023-04-25,VIP Essential,Jack,Moving,Y,N2A,"Tankless, Duct Cleaning, Humidifier, Boiler System, Ductless System, Gas Fireplace, HRV System, Water Heater"
+189949,2023-08-29,VIP Standard - AC/Heat Pump,Bob,Unused,Y,N2E,"Water Heater, Tankless, Ductless System"
+658336,2023-11-16,VIP Essential,Bob,Price,Y,N2G,"Boiler System, Gas Fireplace"
+729973,2023-10-26,VIP Standard - AC/Heat Pump,Jane,Unused,Y,N2C,"Humidifier, Duct Cleaning, Ductless System, Boiler System, Water Heater, Tankless, HRV System, Gas Fireplace"
+278842,2023-05-02,VIP Standard - Furnace & AC/Heat Pump,Jane,Price,N,N2N,"Humidifier, Tankless"
+282666,2023-05-30,VIP Essential,Jane,Unused,N,N2G,
+750374,2023-09-05,Whole House Protection,Jill,Unused,N,N2C,"HRV System, Duct Cleaning, Boiler System, Tankless, Humidifier, Gas Fireplace"
+709025,2023-09-28,VIP Standard - Furnace,Jane,Price,N,N2P,"Humidifier, Boiler System, HRV System, Water Heater, Duct Cleaning"
+645938,2023-05-03,VIP Standard - AC/Heat Pump,Bob,Bad Customer Service,Y,N2B,"Tankless, Water Heater, HRV System"
+617041,2023-03-06,VIP Essential,Jill,Moving,Y,N2L,
+508609,2023-04-19,VIP Standard - Furnace,Bob,Moving,N,N2M,
+395901,2023-03-21,Whole House Protection,Jill,Price,N,N2E,"Boiler System, Gas Fireplace, Humidifier, Ductless System"
+651241,2023-03-29,VIP Standard - Furnace & AC/Heat Pump,Jane,Moving,N,N2G,"Duct Cleaning, Ductless System, HRV System, Water Heater, Gas Fireplace, Tankless"
+379278,2023-11-17,VIP Standard - Furnace & AC/Heat Pump,Jane,Price,N,N2P,"Humidifier, Water Heater, HRV System, Tankless"
+151208,2023-12-21,VIP Standard - Furnace & AC/Heat Pump,Bob,Price,Y,N2J,"Boiler System, Tankless, Ductless System, Duct Cleaning"
+557505,2023-02-16,VIP Standard - Furnace,Bob,Price,Y,N2N,"Boiler System, Ductless System, Duct Cleaning, HRV System, Gas Fireplace"
+691234,2023-09-15,Whole House Protection,Jack,Unused,N,N2J,
+355140,2023-04-19,VIP Standard - Furnace,Bob,Unused,Y,N2N,"Boiler System, Water Heater, Gas Fireplace"
+850946,2023-11-28,VIP Standard - Furnace & AC/Heat Pump,Jill,Unused,N,N2H,
+114348,2023-02-06,VIP Essential,Jill,Price,N,N2M,"Humidifier, Ductless System, Water Heater, Tankless, Boiler System"
+509339,2023-04-03,VIP Standard - Furnace,Jill,Moving,Y,N2G,"HRV System, Duct Cleaning"
+479993,2023-01-05,Whole House Protection,Jack,Moving,N,N2R,"Gas Fireplace, Humidifier"
+893865,2023-10-17,VIP Essential,Jack,Moving,Y,N2H,
+613400,2023-10-13,Whole House Protection,Bob,Unused,N,N2H,"HRV System, Gas Fireplace, Tankless, Ductless System"
+348481,2023-11-28,VIP Standard - AC/Heat Pump,Jack,Unused,N,N2M,
+104361,2023-07-21,VIP Standard - Furnace & AC/Heat Pump,Jane,Price,N,N2G,"Ductless System, Tankless, HRV System, Boiler System, Gas Fireplace, Water Heater, Humidifier"
+930341,2023-05-23,Whole House Protection,Jack,Price,N,N2P,
+400999,2023-12-05,VIP Standard - Furnace & AC/Heat Pump,Jack,Price,Y,N2R,"Ductless System, Humidifier, Boiler System, Duct Cleaning, Water Heater, Tankless"
+201276,2023-07-05,VIP Standard - Furnace & AC/Heat Pump,Jane,Bad Customer Service,N,N2G,Boiler System
+192904,2023-12-21,VIP Standard - AC/Heat Pump,Bob,Moving,Y,N2N,Tankless
+217091,2023-06-23,VIP Standard - Furnace,Jane,Price,N,N2K,"Duct Cleaning, Gas Fireplace, Water Heater, Ductless System, Boiler System, HRV System"
+415588,2023-02-22,VIP Standard - Furnace & AC/Heat Pump,Bob,Price,N,N2G,"Boiler System, Duct Cleaning, Humidifier, Gas Fireplace"
+695560,2023-02-20,VIP Standard - Furnace & AC/Heat Pump,Bob,Price,N,N2T,"HRV System, Tankless, Duct Cleaning, Humidifier, Boiler System"
+854837,2023-08-23,VIP Standard - Furnace,Bob,Moving,Y,N2R,"Tankless, HRV System"
+651832,2023-11-29,VIP Standard - Furnace & AC/Heat Pump,Bob,Moving,N,N2E,
+692237,2023-10-27,VIP Standard - Furnace & AC/Heat Pump,Bob,Moving,Y,N2N,
+862235,2023-05-03,VIP Standard - Furnace & AC/Heat Pump,Jane,Moving,N,N2R,"HRV System, Boiler System, Humidifier"
+662718,2023-04-25,VIP Standard - Furnace & AC/Heat Pump,Jack,Moving,Y,N2G,"Water Heater, Duct Cleaning, Gas Fireplace, Ductless System, Humidifier, Boiler System, HRV System, Tankless"
+829317,2023-07-07,Whole House Protection,Bob,Bad Customer Service,N,N2J,"HRV System, Tankless"
+996133,2023-02-10,VIP Essential,Jane,Price,Y,N2J,"Humidifier, Gas Fireplace, Duct Cleaning, HRV System"
+493465,2023-02-21,VIP Standard - Furnace,Jane,Unused,N,N2H,"Water Heater, Duct Cleaning, HRV System, Humidifier, Tankless, Boiler System, Gas Fireplace, Ductless System"
+335842,2023-11-06,VIP Standard - AC/Heat Pump,Jill,Moving,Y,N2P,"Ductless System, Boiler System, Water Heater, Gas Fireplace, Duct Cleaning, HRV System, Tankless, Humidifier"
+350021,2023-02-21,VIP Standard - AC/Heat Pump,Jane,Moving,N,N2T,"Humidifier, HRV System"
+126807,2023-05-23,VIP Essential,Jane,Price,Y,N2R,"Duct Cleaning, HRV System, Humidifier, Boiler System"
+959926,2023-02-24,VIP Standard - Furnace & AC/Heat Pump,Jack,Unused,N,N2B,"Tankless, Water Heater, Ductless System, Humidifier, Gas Fireplace, Boiler System"
+884361,2023-12-19,Whole House Protection,Bob,Bad Customer Service,N,N2K,"Duct Cleaning, Gas Fireplace, HRV System"
+272771,2023-03-10,Whole House Protection,Jack,Unused,N,N2K,"Ductless System, Duct Cleaning, Water Heater, Humidifier, Gas Fireplace, HRV System, Tankless"
+713856,2023-03-20,VIP Essential,Jack,Unused,Y,N2E,"Water Heater, Boiler System"
+413632,2023-06-23,VIP Standard - Furnace & AC/Heat Pump,Jack,Moving,Y,N2V,HRV System
+596460,2023-01-31,VIP Standard - AC/Heat Pump,Jane,Price,Y,N2E,"Boiler System, Tankless, Gas Fireplace, HRV System"
+196863,2023-11-17,Whole House Protection,Jane,Moving,N,N2H,"HRV System, Gas Fireplace, Ductless System"
+191847,2023-05-08,VIP Standard - AC/Heat Pump,Jack,Bad Customer Service,Y,N2N,Duct Cleaning
+793430,2023-10-18,VIP Standard - Furnace,Jane,Price,Y,N2B,
+232225,2023-01-17,VIP Standard - Furnace & AC/Heat Pump,Bob,Price,N,N2J,"Boiler System, Ductless System, Humidifier"
+598481,2023-08-03,VIP Standard - Furnace & AC/Heat Pump,Jack,Price,N,N2M,"HRV System, Water Heater, Humidifier, Duct Cleaning, Boiler System, Tankless"
+697642,2023-01-27,VIP Standard - AC/Heat Pump,Jill,Bad Customer Service,N,N2E,"Gas Fireplace, Tankless, Water Heater, Ductless System, Duct Cleaning, Humidifier, HRV System"
+387213,2023-08-22,VIP Standard - Furnace & AC/Heat Pump,Jack,Bad Customer Service,Y,N2J,HRV System
+885723,2023-11-20,VIP Essential,Jane,Unused,N,N2P,HRV System
+991273,2023-02-09,VIP Standard - Furnace,Jack,Moving,Y,N2B,"Tankless, Ductless System, Boiler System, HRV System, Duct Cleaning, Gas Fireplace, Water Heater"
+451151,2023-12-22,Whole House Protection,Jack,Price,Y,N2L,"HRV System, Tankless, Boiler System, Duct Cleaning, Gas Fireplace, Water Heater, Humidifier"
+877849,2023-05-31,VIP Essential,Jill,Unused,N,N2J,Tankless
+725552,2023-09-07,Whole House Protection,Jane,Unused,N,N2H,"Boiler System, Gas Fireplace, Ductless System, Duct Cleaning"
+668271,2023-04-04,VIP Standard - Furnace & AC/Heat Pump,Jack,Bad Customer Service,Y,N2B,"Duct Cleaning, Boiler System, Ductless System, Gas Fireplace, Water Heater, Tankless"
+186763,2023-03-10,Whole House Protection,Jack,Moving,Y,N2T,"Tankless, HRV System, Gas Fireplace, Boiler System"
+290227,2023-11-03,VIP Standard - Furnace,Jane,Price,Y,N2M,"Ductless System, Water Heater"
+344743,2023-11-14,Whole House Protection,Bob,Bad Customer Service,Y,N2P,"Water Heater, Ductless System, Tankless, HRV System, Duct Cleaning, Gas Fireplace"
+133012,2023-12-11,Whole House Protection,Jill,Unused,N,N2C,"Duct Cleaning, Water Heater, Boiler System, HRV System, Gas Fireplace, Tankless, Humidifier"
+476702,2023-08-30,VIP Standard - Furnace,Bob,Bad Customer Service,N,N2T,Boiler System
+219650,2023-05-29,VIP Essential,Bob,Bad Customer Service,Y,N2B,"Ductless System, Water Heater"
+137890,2023-09-12,VIP Essential,Jack,Bad Customer Service,N,N2K,"Humidifier, HRV System"
+154798,2023-12-25,VIP Standard - Furnace & AC/Heat Pump,Jack,Unused,Y,N2V,"Tankless, Ductless System, Boiler System, Duct Cleaning, Gas Fireplace, Water Heater, HRV System"
+471591,2023-12-14,VIP Standard - AC/Heat Pump,Jill,Unused,N,N2V,"HRV System, Ductless System, Gas Fireplace, Duct Cleaning, Water Heater, Tankless, Humidifier, Boiler System"
+703234,2023-01-10,VIP Standard - Furnace,Jack,Price,N,N2E,"Duct Cleaning, Humidifier, Boiler System"
+218580,2023-07-21,VIP Standard - AC/Heat Pump,Bob,Bad Customer Service,Y,N2H,"Gas Fireplace, Tankless, Boiler System, Water Heater, HRV System"
+805607,2023-10-23,VIP Standard - Furnace & AC/Heat Pump,Bob,Moving,Y,N2T,"Tankless, Boiler System, Duct Cleaning, HRV System, Ductless System, Water Heater, Gas Fireplace"
+490590,2023-11-01,Whole House Protection,Jane,Price,Y,N2V,"Tankless, Boiler System"
+491363,2023-12-19,VIP Standard - AC/Heat Pump,Jill,Unused,Y,N2K,"Water Heater, Ductless System, Boiler System, Duct Cleaning, Humidifier"
+637489,2023-09-29,VIP Essential,Bob,Unused,Y,N2V,"Tankless, Humidifier, Ductless System, HRV System, Boiler System, Water Heater, Gas Fireplace, Duct Cleaning"
+242537,2023-01-30,VIP Standard - AC/Heat Pump,Jill,Unused,N,N2C,Boiler System
+836169,2023-05-24,VIP Standard - Furnace & AC/Heat Pump,Jack,Moving,Y,N2P,"Boiler System, Gas Fireplace, Duct Cleaning, Ductless System, Humidifier, Tankless, HRV System"
+471679,2023-10-10,VIP Standard - Furnace,Jill,Unused,N,N2A,"Gas Fireplace, HRV System, Water Heater, Humidifier"
+555492,2023-09-08,Whole House Protection,Jack,Unused,Y,N2E,"Boiler System, Humidifier, HRV System, Ductless System, Gas Fireplace"
+739113,2023-10-09,VIP Standard - Furnace,Jane,Unused,N,N2E,"HRV System, Tankless, Duct Cleaning, Gas Fireplace, Ductless System, Humidifier, Water Heater"
+534767,2023-04-14,VIP Essential,Jack,Price,Y,N2R,"HRV System, Humidifier, Duct Cleaning, Boiler System, Tankless, Ductless System"
+528950,2023-06-27,VIP Standard - Furnace,Bob,Unused,Y,N2G,"Tankless, Ductless System, Gas Fireplace"
+529782,2023-03-15,VIP Standard - Furnace,Jack,Price,N,N2V,Ductless System
+508786,2023-12-08,Whole House Protection,Jane,Moving,Y,N2B,"Ductless System, Boiler System, Gas Fireplace, Duct Cleaning, HRV System, Humidifier, Water Heater, Tankless"
+771737,2023-06-09,VIP Standard - Furnace & AC/Heat Pump,Jane,Unused,Y,N2K,"Gas Fireplace, Tankless, Duct Cleaning, Water Heater"
+667870,2023-09-11,VIP Standard - Furnace,Jane,Unused,Y,N2P,"Boiler System, Humidifier, Ductless System, HRV System"
+109764,2023-07-24,VIP Standard - Furnace & AC/Heat Pump,Jill,Moving,Y,N2G,"Humidifier, Ductless System"
+206828,2023-01-20,VIP Standard - Furnace,Jane,Moving,Y,N2A,"Boiler System, Humidifier"
+940907,2023-10-03,VIP Standard - Furnace & AC/Heat Pump,Bob,Moving,Y,N2T,"HRV System, Boiler System, Water Heater, Tankless"
+666241,2023-03-07,Whole House Protection,Jane,Bad Customer Service,N,N2C,Ductless System
+900671,2023-01-02,VIP Essential,Bob,Bad Customer Service,N,N2A,"Humidifier, Boiler System, Ductless System, Gas Fireplace, HRV System"
+385661,2023-01-16,VIP Standard - Furnace,Bob,Bad Customer Service,Y,N2G,"HRV System, Gas Fireplace, Water Heater"
+656124,2023-11-15,VIP Standard - Furnace,Jack,Moving,Y,N2J,"Boiler System, Gas Fireplace"
+454053,2023-04-20,VIP Standard - Furnace,Jill,Bad Customer Service,Y,N2B,"Gas Fireplace, Boiler System, Tankless, Ductless System, Duct Cleaning, Water Heater, HRV System, Humidifier"
+174827,2023-09-21,VIP Essential,Jill,Moving,Y,N2R,"Humidifier, Boiler System"
+942769,2023-01-23,Whole House Protection,Jane,Moving,Y,N2R,"Water Heater, Duct Cleaning, Humidifier, Tankless, Ductless System, HRV System"
+974463,2023-11-20,VIP Essential,Jack,Unused,Y,N2M,"HRV System, Gas Fireplace, Humidifier, Ductless System, Duct Cleaning, Water Heater"
+541787,2023-08-09,VIP Standard - Furnace,Jane,Moving,N,N2H,"Water Heater, Ductless System, Gas Fireplace, Duct Cleaning, Tankless"
+151149,2023-06-26,VIP Essential,Jane,Unused,N,N2J,"Water Heater, HRV System, Duct Cleaning"
+967593,2023-02-09,VIP Standard - Furnace & AC/Heat Pump,Jack,Unused,N,N2N,Tankless
+576812,2023-07-04,VIP Essential,Bob,Moving,Y,N2K,Ductless System
+397245,2023-12-13,VIP Standard - Furnace,Bob,Moving,Y,N2A,
+460262,2023-11-24,VIP Essential,Jack,Price,Y,N2T,"Ductless System, Duct Cleaning, Boiler System, Gas Fireplace, Humidifier, HRV System, Water Heater"
+998432,2023-05-01,Whole House Protection,Jack,Price,N,N2J,Humidifier
+213884,2023-02-24,VIP Standard - Furnace & AC/Heat Pump,Jill,Unused,N,N2E,"Duct Cleaning, Ductless System, Water Heater, Tankless, Boiler System"
+533306,2023-10-31,VIP Standard - Furnace,Bob,Bad Customer Service,N,N2V,"HRV System, Boiler System, Water Heater, Ductless System, Humidifier, Tankless, Gas Fireplace"
+751905,2023-07-20,VIP Standard - AC/Heat Pump,Jill,Unused,Y,N2V,HRV System
+740775,2023-08-30,VIP Standard - Furnace,Jane,Price,N,N2R,"Humidifier, Tankless, Ductless System"
+774827,2023-09-20,VIP Essential,Bob,Bad Customer Service,N,N2C,Water Heater
+858823,2023-02-03,VIP Standard - AC/Heat Pump,Jack,Price,N,N2V,Water Heater
+334807,2023-10-11,VIP Standard - Furnace & AC/Heat Pump,Jane,Moving,Y,N2L,
+514182,2023-10-05,VIP Essential,Bob,Unused,N,N2J,
+612715,2023-11-14,VIP Essential,Jack,Bad Customer Service,Y,N2A,"Tankless, Boiler System, Water Heater"
+271188,2023-09-13,VIP Standard - Furnace,Bob,Bad Customer Service,Y,N2H,"HRV System, Tankless, Boiler System, Ductless System, Water Heater, Duct Cleaning"
+157254,2023-11-10,VIP Standard - Furnace & AC/Heat Pump,Jane,Price,N,N2K,"Tankless, Ductless System, Gas Fireplace"
+333375,2023-03-17,VIP Essential,Jane,Moving,Y,N2A,
+319701,2023-10-23,VIP Standard - Furnace,Jane,Moving,Y,N2H,"Water Heater, Ductless System, HRV System, Duct Cleaning, Gas Fireplace, Boiler System, Tankless, Humidifier"
+735411,2023-08-08,VIP Standard - Furnace & AC/Heat Pump,Jill,Bad Customer Service,Y,N2H,"Boiler System, HRV System, Water Heater, Humidifier, Tankless"
+140622,2023-11-21,Whole House Protection,Jill,Unused,N,N2H,"Tankless, Gas Fireplace, Water Heater, HRV System, Duct Cleaning, Boiler System"
+860914,2023-09-05,VIP Standard - Furnace & AC/Heat Pump,Jill,Bad Customer Service,Y,N2B,
+974048,2023-05-25,VIP Standard - Furnace & AC/Heat Pump,Jill,Price,N,N2E,"Water Heater, Duct Cleaning, HRV System, Tankless, Humidifier, Gas Fireplace"
+838677,2023-05-11,VIP Essential,Jack,Unused,Y,N2C,"Ductless System, Duct Cleaning, Gas Fireplace, Water Heater, HRV System, Boiler System"
+566853,2023-09-27,VIP Standard - AC/Heat Pump,Jack,Bad Customer Service,Y,N2H,"Tankless, HRV System, Ductless System, Gas Fireplace, Boiler System, Humidifier, Water Heater"
+851901,2023-03-10,Whole House Protection,Jane,Moving,Y,N2L,"Ductless System, HRV System, Boiler System"
+579800,2023-05-29,Whole House Protection,Jack,Price,N,N2L,Duct Cleaning
+472678,2023-08-10,VIP Standard - Furnace & AC/Heat Pump,Jill,Price,Y,N2R,"HRV System, Water Heater, Boiler System"
+886973,2023-07-07,VIP Standard - Furnace,Jill,Moving,N,N2A,HRV System
+353242,2023-09-19,VIP Standard - Furnace & AC/Heat Pump,Jill,Moving,N,N2R,"Tankless, Water Heater"
+919868,2023-06-02,VIP Essential,Bob,Bad Customer Service,Y,N2P,"Ductless System, HRV System, Duct Cleaning, Tankless, Humidifier, Boiler System, Water Heater, Gas Fireplace"
+710553,2023-08-25,VIP Essential,Bob,Moving,N,N2E,
+406577,2023-01-05,VIP Standard - Furnace & AC/Heat Pump,Bob,Unused,Y,N2H,"Ductless System, Duct Cleaning, Water Heater, Gas Fireplace, HRV System"
+745985,2023-10-19,VIP Essential,Bob,Bad Customer Service,N,N2J,"Ductless System, Duct Cleaning, Water Heater, Gas Fireplace, HRV System, Tankless"
+736116,2023-09-20,VIP Essential,Bob,Unused,Y,N2L,"Duct Cleaning, HRV System"
+244614,2023-01-16,VIP Essential,Bob,Moving,N,N2R,"HRV System, Tankless, Duct Cleaning, Water Heater"
+487553,2023-09-14,Whole House Protection,Jane,Unused,N,N2A,Duct Cleaning
+542651,2023-10-31,VIP Standard - Furnace,Bob,Bad Customer Service,N,N2V,
+874792,2023-07-03,Whole House Protection,Jill,Unused,Y,N2L,"Ductless System, Humidifier, Gas Fireplace, Duct Cleaning, Tankless, HRV System, Water Heater, Boiler System"
+926559,2023-02-22,VIP Standard - AC/Heat Pump,Bob,Moving,Y,N2E,"Water Heater, HRV System, Gas Fireplace, Tankless, Duct Cleaning"
+353251,2023-05-26,VIP Essential,Jane,Unused,N,N2K,"Tankless, Duct Cleaning, Boiler System, Gas Fireplace"
+104235,2023-10-23,VIP Essential,Jane,Unused,Y,N2A,"Ductless System, Water Heater, Boiler System, Tankless, Humidifier"
+612451,2023-12-13,VIP Essential,Jill,Bad Customer Service,N,N2L,"Boiler System, Ductless System, Humidifier, Water Heater, Tankless, HRV System, Duct Cleaning"
+544492,2023-12-06,VIP Essential,Jill,Unused,Y,N2G,
+210231,2023-04-20,VIP Standard - AC/Heat Pump,Bob,Moving,Y,N2C,"Boiler System, Water Heater, Tankless, Gas Fireplace, Duct Cleaning"
+268073,2023-08-10,VIP Standard - Furnace & AC/Heat Pump,Jane,Unused,Y,N2T,"Water Heater, Gas Fireplace"
+404064,2023-09-13,VIP Essential,Jack,Unused,Y,N2L,
+526940,2023-03-24,VIP Standard - AC/Heat Pump,Bob,Moving,N,N2R,"Ductless System, Gas Fireplace"
+597655,2023-02-10,VIP Standard - Furnace,Bob,Bad Customer Service,N,N2V,
+595380,2023-06-02,VIP Standard - Furnace,Jane,Moving,N,N2T,"Water Heater, HRV System, Duct Cleaning, Tankless, Ductless System, Boiler System, Humidifier"
+749167,2023-03-23,VIP Essential,Jane,Price,N,N2T,Duct Cleaning
+308994,2023-02-14,VIP Standard - Furnace,Jill,Price,Y,N2B,"Ductless System, Boiler System, Humidifier, HRV System"
+742077,2023-07-19,VIP Standard - Furnace,Bob,Price,N,N2B,"Boiler System, Tankless, Water Heater, Gas Fireplace, Duct Cleaning, HRV System, Ductless System, Humidifier"
+530682,2023-12-26,VIP Standard - Furnace,Jill,Unused,Y,N2E,"HRV System, Ductless System, Gas Fireplace, Tankless"
+817791,2023-02-27,VIP Standard - Furnace,Jack,Bad Customer Service,N,N2J,"Gas Fireplace, Boiler System, Humidifier, Tankless, HRV System, Duct Cleaning"
+161024,2023-03-31,VIP Essential,Jane,Unused,N,N2L,"Tankless, Gas Fireplace, Ductless System, Humidifier, Duct Cleaning, HRV System, Water Heater"
+351287,2023-01-05,VIP Essential,Jane,Price,N,N2A,"Water Heater, Humidifier, Gas Fireplace, Duct Cleaning"
+894687,2023-02-27,VIP Essential,Jill,Price,Y,N2H,"HRV System, Tankless"
+259491,2023-07-10,VIP Essential,Jack,Unused,Y,N2T,Water Heater
+747324,2023-11-29,VIP Standard - Furnace,Jane,Price,N,N2P,"Humidifier, Boiler System, Ductless System, Tankless, Water Heater, Gas Fireplace"
+455607,2023-08-25,VIP Standard - Furnace & AC/Heat Pump,Jack,Unused,N,N2A,
+433124,2023-08-21,VIP Standard - Furnace & AC/Heat Pump,Bob,Unused,N,N2K,"Humidifier, HRV System, Duct Cleaning, Tankless, Water Heater"
+397046,2023-10-10,VIP Standard - AC/Heat Pump,Jane,Price,Y,N2H,"Tankless, Water Heater, HRV System"
+309857,2023-12-14,Whole House Protection,Jane,Price,N,N2J,"Duct Cleaning, Water Heater, Ductless System, Boiler System, HRV System, Humidifier, Tankless, Gas Fireplace"
+462060,2023-03-14,VIP Essential,Jack,Moving,N,N2T,Duct Cleaning
+828672,2023-07-07,VIP Standard - AC/Heat Pump,Jill,Bad Customer Service,N,N2M,"Gas Fireplace, Humidifier, HRV System, Duct Cleaning, Tankless, Ductless System, Water Heater, Boiler System"
+582792,2023-01-02,VIP Standard - AC/Heat Pump,Jack,Unused,Y,N2A,"Tankless, Duct Cleaning, Ductless System, Humidifier"
+509784,2023-12-26,VIP Standard - AC/Heat Pump,Bob,Price,Y,N2V,"Duct Cleaning, Ductless System"
+122052,2023-01-17,VIP Standard - Furnace,Jane,Bad Customer Service,N,N2V,"Ductless System, Tankless"
+774305,2023-12-18,VIP Standard - Furnace & AC/Heat Pump,Jack,Moving,Y,N2C,"Humidifier, Tankless"
+295144,2023-05-23,VIP Essential,Bob,Moving,N,N2M,"Ductless System, Duct Cleaning"
+151285,2023-12-22,VIP Standard - AC/Heat Pump,Jill,Bad Customer Service,Y,N2R,"Duct Cleaning, Water Heater, Gas Fireplace, Ductless System"
+298115,2023-10-20,VIP Standard - AC/Heat Pump,Bob,Price,Y,N2J,"Boiler System, Water Heater, Gas Fireplace, Tankless, HRV System"
+159961,2023-04-05,VIP Standard - Furnace,Jack,Price,N,N2J,
+376744,2023-11-06,VIP Standard - AC/Heat Pump,Jill,Price,Y,N2E,"Duct Cleaning, Boiler System, HRV System, Gas Fireplace"
+333595,2023-09-06,VIP Standard - AC/Heat Pump,Jack,Unused,N,N2B,Gas Fireplace
+144527,2023-03-23,VIP Standard - Furnace,Jack,Moving,Y,N2L,
+769589,2023-04-21,VIP Standard - Furnace,Jack,Bad Customer Service,N,N2L,"Gas Fireplace, HRV System, Tankless, Ductless System, Boiler System, Water Heater, Duct Cleaning, Humidifier"
+666642,2023-06-23,VIP Standard - Furnace,Jill,Bad Customer Service,N,N2B,"Boiler System, Water Heater, HRV System, Gas Fireplace, Humidifier, Tankless, Ductless System"
+660861,2023-09-06,VIP Standard - Furnace & AC/Heat Pump,Jill,Price,Y,N2L,Water Heater
+423635,2023-03-13,Whole House Protection,Jack,Unused,Y,N2V,Humidifier
+223271,2023-02-16,VIP Standard - AC/Heat Pump,Jane,Bad Customer Service,N,N2A,"Water Heater, Humidifier, Gas Fireplace, Duct Cleaning, Tankless"
+716287,2023-04-10,Whole House Protection,Bob,Bad Customer Service,Y,N2E,"HRV System, Boiler System"
+216911,2023-09-26,VIP Standard - AC/Heat Pump,Jane,Moving,N,N2H,"Humidifier, Gas Fireplace, Ductless System, HRV System"
+790349,2023-03-21,VIP Standard - Furnace & AC/Heat Pump,Bob,Bad Customer Service,N,N2L,"Ductless System, Tankless, Water Heater"
+928145,2023-05-19,VIP Standard - Furnace,Bob,Moving,Y,N2R,"Ductless System, Gas Fireplace, Duct Cleaning, Humidifier, Boiler System"
+389457,2023-12-12,VIP Essential,Jill,Price,Y,N2N,"Tankless, Gas Fireplace, Duct Cleaning, Humidifier, HRV System, Water Heater, Ductless System, Boiler System"
+756375,2023-07-04,Whole House Protection,Jane,Price,Y,N2K,"Duct Cleaning, Ductless System"
+195565,2023-12-22,Whole House Protection,Jane,Moving,N,N2E,
+929699,2023-01-04,VIP Standard - Furnace & AC/Heat Pump,Jill,Moving,N,N2P,"Gas Fireplace, Duct Cleaning, Humidifier, HRV System, Ductless System, Water Heater"
+781933,2023-05-19,VIP Standard - AC/Heat Pump,Jill,Unused,N,N2L,"Gas Fireplace, Boiler System, HRV System, Humidifier, Duct Cleaning, Water Heater, Tankless"
+725682,2023-07-03,VIP Standard - AC/Heat Pump,Jill,Moving,Y,N2E,"HRV System, Humidifier, Boiler System, Water Heater"
+208092,2023-05-26,Whole House Protection,Jane,Moving,Y,N2G,"Water Heater, Ductless System, Boiler System, HRV System"
+382832,2023-02-22,VIP Essential,Jane,Price,Y,N2J,"Duct Cleaning, Boiler System, Humidifier, Tankless, HRV System, Gas Fireplace, Water Heater"
+895632,2023-09-29,VIP Essential,Jack,Bad Customer Service,N,N2P,"Ductless System, Gas Fireplace, Boiler System, Water Heater, Duct Cleaning"
+904173,2023-08-01,Whole House Protection,Bob,Moving,N,N2J,HRV System
+942770,2023-04-03,Whole House Protection,Jack,Bad Customer Service,Y,N2C,"Tankless, Water Heater, Boiler System, Gas Fireplace, Humidifier, Ductless System, Duct Cleaning"
+166695,2023-10-19,VIP Standard - Furnace & AC/Heat Pump,Bob,Bad Customer Service,Y,N2J,"HRV System, Ductless System"
+437577,2023-04-04,VIP Standard - AC/Heat Pump,Bob,Unused,Y,N2M,"Humidifier, HRV System, Water Heater, Ductless System, Duct Cleaning, Gas Fireplace"
+948914,2023-05-17,VIP Standard - Furnace & AC/Heat Pump,Bob,Unused,Y,N2L,"Tankless, HRV System, Gas Fireplace"
+355303,2023-06-05,VIP Standard - Furnace & AC/Heat Pump,Jane,Unused,Y,N2R,"Water Heater, Humidifier"
+216871,2023-02-01,VIP Standard - Furnace,Jill,Moving,Y,N2V,"HRV System, Humidifier, Ductless System, Water Heater, Boiler System, Gas Fireplace"
+654468,2023-07-26,VIP Standard - Furnace & AC/Heat Pump,Jane,Price,Y,N2G,"Boiler System, Gas Fireplace, HRV System"
+970305,2023-07-14,VIP Standard - Furnace,Bob,Moving,N,N2G,"HRV System, Ductless System, Gas Fireplace, Humidifier"
+474010,2023-12-21,VIP Standard - AC/Heat Pump,Bob,Unused,Y,N2M,"Water Heater, Duct Cleaning, Gas Fireplace, HRV System, Ductless System, Boiler System, Humidifier, Tankless"
+947663,2023-02-16,VIP Standard - Furnace,Jill,Price,N,N2E,"Humidifier, Duct Cleaning, Boiler System, Tankless, Ductless System, Gas Fireplace, Water Heater, HRV System"
+223186,2023-02-01,VIP Essential,Jack,Moving,Y,N2L,
+926530,2023-03-13,VIP Standard - AC/Heat Pump,Jill,Price,N,N2G,"Boiler System, Duct Cleaning, Ductless System, Humidifier, Water Heater"
+955862,2023-01-20,VIP Standard - Furnace & AC/Heat Pump,Bob,Price,Y,N2K,"Water Heater, Humidifier"
+389756,2023-11-10,VIP Standard - Furnace & AC/Heat Pump,Jack,Bad Customer Service,Y,N2A,"Tankless, Gas Fireplace, Water Heater, Duct Cleaning, HRV System, Ductless System, Boiler System"
+276649,2023-01-27,Whole House Protection,Jill,Moving,Y,N2H,"Duct Cleaning, HRV System, Boiler System, Water Heater, Ductless System"
+818390,2023-10-24,VIP Essential,Jill,Bad Customer Service,N,N2K,
+857347,2023-03-16,VIP Standard - Furnace & AC/Heat Pump,Bob,Bad Customer Service,N,N2B,"Gas Fireplace, Ductless System, Boiler System, Tankless, Water Heater, HRV System, Humidifier"
+879071,2023-08-07,VIP Standard - Furnace,Jill,Moving,Y,N2M,"Tankless, Boiler System"
+953700,2023-12-14,VIP Standard - Furnace,Bob,Price,N,N2T,Duct Cleaning
+602630,2023-10-20,Whole House Protection,Bob,Moving,N,N2R,
+319268,2023-09-20,VIP Standard - Furnace & AC/Heat Pump,Bob,Bad Customer Service,Y,N2L,"Water Heater, HRV System, Humidifier, Gas Fireplace, Duct Cleaning, Ductless System, Boiler System"
+760954,2023-08-04,Whole House Protection,Jack,Bad Customer Service,N,N2E,"Tankless, Humidifier"
+915116,2023-11-27,Whole House Protection,Jack,Bad Customer Service,Y,N2N,"Boiler System, Duct Cleaning, Water Heater, Tankless"
+472794,2023-04-19,VIP Standard - AC/Heat Pump,Jill,Price,N,N2R,"Tankless, Water Heater, HRV System, Humidifier, Ductless System, Boiler System"
+520866,2023-03-31,VIP Standard - Furnace,Jane,Unused,N,N2E,"Duct Cleaning, HRV System, Water Heater, Humidifier, Tankless"
+392177,2023-12-20,VIP Standard - Furnace,Jack,Price,Y,N2H,"Ductless System, Water Heater, Tankless, Boiler System, HRV System, Humidifier, Duct Cleaning"
+409340,2023-04-04,VIP Standard - Furnace & AC/Heat Pump,Jane,Bad Customer Service,Y,N2P,Water Heater
+580290,2023-07-03,VIP Standard - Furnace & AC/Heat Pump,Jane,Bad Customer Service,N,N2M,"Humidifier, Water Heater, Duct Cleaning, Ductless System, Boiler System, HRV System"
+373872,2023-03-02,VIP Standard - Furnace,Jill,Bad Customer Service,N,N2R,
+165359,2023-06-28,VIP Essential,Jane,Bad Customer Service,N,N2H,Tankless
+383984,2023-04-19,VIP Standard - Furnace,Jack,Moving,Y,N2B,HRV System
+279931,2023-03-07,VIP Standard - Furnace & AC/Heat Pump,Bob,Price,Y,N2L,"Tankless, Gas Fireplace, Boiler System"
+401370,2023-05-31,VIP Standard - Furnace,Jack,Bad Customer Service,N,N2K,"Gas Fireplace, Duct Cleaning"
+377633,2023-10-03,Whole House Protection,Jack,Unused,Y,N2T,"HRV System, Tankless"
+538717,2023-12-07,VIP Essential,Jack,Bad Customer Service,Y,N2K,"Tankless, Gas Fireplace, Duct Cleaning, HRV System, Humidifier, Water Heater"
+810524,2023-05-16,VIP Standard - Furnace,Bob,Bad Customer Service,N,N2C,"Gas Fireplace, Water Heater"
+708089,2023-09-13,Whole House Protection,Jack,Bad Customer Service,Y,N2K,"Duct Cleaning, Humidifier, Boiler System, Ductless System, HRV System"
+332572,2023-11-20,VIP Standard - AC/Heat Pump,Jill,Moving,N,N2B,"Water Heater, Tankless, Duct Cleaning, Boiler System, Humidifier, HRV System"
+928223,2023-09-29,VIP Essential,Bob,Moving,N,N2R,"Boiler System, Duct Cleaning, Gas Fireplace, Humidifier, Water Heater, Ductless System, HRV System"
+357623,2023-02-24,VIP Standard - AC/Heat Pump,Jane,Moving,Y,N2A,"Boiler System, HRV System, Humidifier, Ductless System, Duct Cleaning, Gas Fireplace"
+565578,2023-07-10,VIP Essential,Jill,Moving,Y,N2K,"Boiler System, Duct Cleaning"
+535525,2023-12-25,VIP Essential,Bob,Unused,Y,N2N,"Duct Cleaning, Gas Fireplace, Ductless System, Humidifier, Water Heater, Tankless, Boiler System"
+824120,2023-06-12,VIP Standard - AC/Heat Pump,Bob,Bad Customer Service,N,N2A,"Water Heater, Tankless, Humidifier, Boiler System"
+429648,2023-09-07,VIP Standard - Furnace,Bob,Unused,N,N2B,"Ductless System, Humidifier"
+207870,2023-05-16,VIP Standard - Furnace & AC/Heat Pump,Jack,Price,Y,N2A,"Gas Fireplace, Water Heater, Ductless System, Tankless, Duct Cleaning"
+292805,2023-09-18,VIP Standard - Furnace & AC/Heat Pump,Jane,Moving,N,N2M,Boiler System
+151562,2023-06-15,VIP Standard - Furnace,Jack,Price,Y,N2L,
+496377,2023-03-01,Whole House Protection,Jack,Price,N,N2N,
+503484,2023-08-04,VIP Standard - Furnace,Jill,Unused,N,N2P,"Humidifier, HRV System"
+110382,2023-01-05,VIP Standard - Furnace,Jane,Price,Y,N2L,"Humidifier, Ductless System, Duct Cleaning, Water Heater, Tankless, Boiler System, Gas Fireplace"
+999821,2023-10-19,Whole House Protection,Bob,Moving,N,N2E,"Gas Fireplace, Boiler System, Duct Cleaning, Humidifier, Tankless, Water Heater"
+794486,2023-01-17,VIP Standard - AC/Heat Pump,Jill,Bad Customer Service,N,N2B,Ductless System
+184170,2023-01-27,VIP Essential,Bob,Bad Customer Service,N,N2V,"Duct Cleaning, Tankless, Water Heater, Humidifier, Ductless System, Boiler System, Gas Fireplace, HRV System"
+229085,2023-01-04,VIP Standard - Furnace & AC/Heat Pump,Jane,Unused,Y,N2J,"Ductless System, Tankless"
+537920,2023-01-27,Whole House Protection,Jane,Bad Customer Service,Y,N2J,Ductless System
+669882,2023-04-28,VIP Standard - Furnace & AC/Heat Pump,Jill,Moving,N,N2L,"Gas Fireplace, Duct Cleaning"
+717178,2023-01-20,VIP Essential,Jill,Price,Y,N2B,"Ductless System, Boiler System, Tankless, HRV System"
+659977,2023-04-07,Whole House Protection,Bob,Moving,Y,N2M,
+604129,2023-03-17,VIP Standard - Furnace & AC/Heat Pump,Jack,Bad Customer Service,Y,N2P,"Duct Cleaning, Gas Fireplace, Boiler System"
+152365,2023-08-31,VIP Standard - Furnace,Jane,Moving,N,N2R,"Ductless System, Tankless, HRV System, Duct Cleaning"
+129951,2023-07-14,VIP Standard - AC/Heat Pump,Jane,Unused,Y,N2B,Humidifier
+195163,2023-10-27,VIP Standard - Furnace,Jill,Bad Customer Service,Y,N2B,"HRV System, Duct Cleaning, Ductless System, Water Heater"
+416753,2023-01-17,Whole House Protection,Jill,Unused,N,N2L,"Gas Fireplace, Humidifier, Ductless System, Duct Cleaning"
+307424,2023-10-26,VIP Standard - AC/Heat Pump,Jack,Price,Y,N2K,"HRV System, Water Heater, Duct Cleaning, Humidifier, Tankless, Gas Fireplace, Ductless System"
+906419,2023-03-21,VIP Standard - Furnace,Jill,Moving,Y,N2P,"Tankless, Duct Cleaning, Water Heater, Gas Fireplace"
+880731,2023-07-31,VIP Essential,Jill,Moving,Y,N2B,"Humidifier, Tankless, Gas Fireplace, HRV System, Duct Cleaning, Boiler System"
+416441,2023-03-14,VIP Standard - Furnace,Jane,Bad Customer Service,Y,N2V,
+993271,2023-04-21,VIP Standard - Furnace,Jane,Bad Customer Service,N,N2V,"Water Heater, Humidifier, Duct Cleaning, Tankless, Gas Fireplace, Ductless System, Boiler System, HRV System"
+990376,2023-11-02,Whole House Protection,Jane,Bad Customer Service,N,N2N,
+201971,2023-09-18,VIP Essential,Bob,Price,N,N2B,"Ductless System, Water Heater, Duct Cleaning"
+997170,2023-07-07,Whole House Protection,Bob,Unused,N,N2L,"Ductless System, Humidifier, Boiler System, Water Heater, Gas Fireplace, HRV System, Tankless"
+940455,2023-04-13,VIP Essential,Jill,Bad Customer Service,N,N2R,"Tankless, Gas Fireplace, Duct Cleaning"
+787116,2023-11-21,Whole House Protection,Jane,Price,N,N2P,Water Heater
+184446,2023-06-28,Whole House Protection,Bob,Bad Customer Service,N,N2P,"Gas Fireplace, Tankless, HRV System, Humidifier"
+666858,2023-01-18,VIP Standard - AC/Heat Pump,Bob,Bad Customer Service,Y,N2T,"Gas Fireplace, Water Heater, Ductless System, HRV System, Boiler System"
+296587,2023-09-08,VIP Essential,Jack,Price,Y,N2E,"Boiler System, Water Heater, Ductless System, Humidifier, Tankless, Gas Fireplace, Duct Cleaning"
+234304,2023-09-06,VIP Standard - Furnace,Jack,Bad Customer Service,N,N2M,Ductless System
+895278,2023-07-12,VIP Standard - AC/Heat Pump,Jill,Unused,Y,N2M,"Duct Cleaning, HRV System, Boiler System, Humidifier, Gas Fireplace"
+926699,2023-05-09,Whole House Protection,Jack,Moving,Y,N2J,"Water Heater, Humidifier, Gas Fireplace, Ductless System, Tankless, HRV System"
+387972,2023-11-15,VIP Standard - Furnace,Bob,Moving,N,N2L,"Duct Cleaning, HRV System, Water Heater"
+574300,2023-08-02,VIP Standard - Furnace,Jane,Price,Y,N2J,"Boiler System, Water Heater"
+786954,2023-07-03,VIP Standard - AC/Heat Pump,Jane,Moving,N,N2E,"Duct Cleaning, Ductless System, Boiler System"
+843896,2023-04-07,VIP Standard - AC/Heat Pump,Jane,Moving,N,N2K,"Tankless, HRV System, Duct Cleaning, Gas Fireplace, Boiler System"
+539103,2023-04-17,Whole House Protection,Jane,Moving,Y,N2B,"Ductless System, Tankless, Duct Cleaning, HRV System"
+106252,2023-06-28,VIP Essential,Bob,Price,N,N2C,"Gas Fireplace, Ductless System, HRV System, Tankless, Boiler System, Water Heater, Humidifier, Duct Cleaning"
+728088,2023-04-06,VIP Essential,Jack,Unused,Y,N2K,"HRV System, Tankless, Duct Cleaning, Ductless System"
+810420,2023-01-19,VIP Standard - AC/Heat Pump,Bob,Bad Customer Service,Y,N2J,"Boiler System, Duct Cleaning, Ductless System, Gas Fireplace, Humidifier, HRV System, Water Heater, Tankless"
+174024,2023-05-19,VIP Standard - Furnace & AC/Heat Pump,Jack,Price,N,N2C,Boiler System
+652524,2023-01-05,VIP Standard - AC/Heat Pump,Jack,Moving,Y,N2P,"Ductless System, Boiler System, Tankless, Humidifier, Water Heater, Duct Cleaning"
+423453,2023-10-27,Whole House Protection,Jane,Moving,Y,N2R,"HRV System, Humidifier, Water Heater, Ductless System, Duct Cleaning, Gas Fireplace, Tankless"
+740072,2023-02-27,VIP Standard - AC/Heat Pump,Jane,Moving,Y,N2C,"Humidifier, Ductless System, Tankless, HRV System, Gas Fireplace, Duct Cleaning"
+688346,2023-01-02,VIP Standard - AC/Heat Pump,Jane,Bad Customer Service,Y,N2B,"Boiler System, Water Heater, Humidifier, Tankless"
+989965,2023-02-23,Whole House Protection,Jill,Moving,Y,N2L,"HRV System, Boiler System, Water Heater"
+536353,2023-07-11,VIP Standard - Furnace & AC/Heat Pump,Jane,Bad Customer Service,Y,N2A,"Ductless System, Water Heater, Humidifier, Boiler System, Duct Cleaning, Tankless, HRV System"
+197473,2023-12-07,VIP Essential,Jane,Unused,N,N2L,"Tankless, Boiler System, Water Heater, Duct Cleaning, Humidifier, Ductless System"
+226053,2023-12-11,VIP Standard - Furnace & AC/Heat Pump,Jane,Price,Y,N2K,
+893422,2023-04-03,VIP Standard - Furnace,Bob,Price,N,N2N,"Ductless System, HRV System, Boiler System, Humidifier, Tankless, Gas Fireplace, Duct Cleaning, Water Heater"
+255508,2023-10-05,VIP Standard - Furnace,Jill,Bad Customer Service,Y,N2M,"Gas Fireplace, Humidifier, Duct Cleaning, Tankless"
+461006,2023-03-20,VIP Standard - AC/Heat Pump,Jack,Unused,Y,N2H,"Gas Fireplace, HRV System, Tankless, Boiler System, Water Heater, Duct Cleaning, Ductless System, Humidifier"
+599947,2023-03-30,VIP Standard - Furnace,Jill,Unused,Y,N2T,"Water Heater, Duct Cleaning, Boiler System, Tankless, Humidifier, HRV System, Gas Fireplace"
+652649,2023-10-09,VIP Standard - Furnace & AC/Heat Pump,Bob,Moving,N,N2G,Gas Fireplace
+402665,2023-01-11,VIP Standard - Furnace & AC/Heat Pump,Jack,Price,Y,N2A,"Ductless System, Humidifier, Water Heater, Duct Cleaning, Tankless"
+184962,2023-09-12,VIP Standard - Furnace & AC/Heat Pump,Jane,Price,Y,N2A,
+495134,2023-08-15,VIP Essential,Bob,Price,N,N2N,"Tankless, Humidifier, Boiler System"
+927507,2023-03-07,VIP Essential,Jill,Moving,Y,N2C,"Ductless System, Gas Fireplace, Duct Cleaning"
+621574,2023-08-15,Whole House Protection,Jack,Price,N,N2J,"Humidifier, Duct Cleaning"
+277730,2023-10-18,VIP Essential,Jack,Price,N,N2B,"Ductless System, Tankless, Boiler System"
+326757,2023-12-27,VIP Standard - Furnace,Jill,Price,N,N2P,Duct Cleaning
+176054,2023-11-09,Whole House Protection,Jane,Bad Customer Service,N,N2L,"Duct Cleaning, HRV System, Water Heater, Boiler System"
+461161,2023-04-17,Whole House Protection,Jack,Moving,N,N2L,"Ductless System, Boiler System"
+619879,2023-12-01,VIP Essential,Jack,Bad Customer Service,N,N2A,"Ductless System, Water Heater"
+720633,2023-09-20,VIP Essential,Jack,Moving,N,N2A,
+384886,2023-03-07,Whole House Protection,Bob,Bad Customer Service,Y,N2N,
+998575,2023-08-04,VIP Standard - Furnace,Bob,Moving,N,N2A,"Water Heater, Gas Fireplace, Tankless, Duct Cleaning, Ductless System"
+213251,2023-07-05,VIP Standard - Furnace & AC/Heat Pump,Jill,Moving,Y,N2E,"Water Heater, Boiler System, HRV System, Humidifier, Gas Fireplace, Duct Cleaning, Ductless System, Tankless"
+895117,2023-11-07,VIP Essential,Bob,Moving,N,N2B,"Boiler System, Duct Cleaning, Gas Fireplace, Humidifier, Tankless, HRV System, Water Heater"
+557224,2023-12-13,VIP Standard - Furnace,Jane,Bad Customer Service,N,N2R,"Duct Cleaning, HRV System, Gas Fireplace, Water Heater, Humidifier, Tankless, Ductless System"
+778389,2023-07-07,VIP Standard - Furnace,Jill,Unused,N,N2T,"Tankless, Humidifier"
+631141,2023-02-01,VIP Standard - AC/Heat Pump,Bob,Moving,Y,N2T,"Ductless System, HRV System, Boiler System, Humidifier, Duct Cleaning"
+332889,2023-04-27,Whole House Protection,Bob,Unused,Y,N2B,"Duct Cleaning, Ductless System, Tankless, HRV System, Boiler System, Gas Fireplace"
+177403,2023-05-18,VIP Standard - Furnace & AC/Heat Pump,Bob,Unused,Y,N2N,"Duct Cleaning, HRV System, Water Heater"
+680018,2023-04-04,VIP Essential,Jill,Unused,N,N2L,"HRV System, Ductless System, Tankless, Humidifier, Gas Fireplace, Water Heater, Boiler System"
+139699,2023-02-20,VIP Essential,Bob,Bad Customer Service,Y,N2A,HRV System
+443602,2023-12-07,VIP Essential,Jill,Price,Y,N2T,"Gas Fireplace, Boiler System, HRV System, Ductless System, Water Heater, Duct Cleaning, Humidifier, Tankless"
+784876,2023-08-07,VIP Standard - AC/Heat Pump,Jill,Price,N,N2J,"Tankless, Gas Fireplace, Ductless System, Duct Cleaning, Humidifier, Water Heater, HRV System"
+123004,2023-12-18,VIP Standard - AC/Heat Pump,Bob,Price,N,N2M,"Gas Fireplace, Tankless, HRV System, Water Heater, Duct Cleaning, Ductless System, Boiler System, Humidifier"
+515584,2023-02-09,Whole House Protection,Jill,Moving,Y,N2L,"Tankless, Duct Cleaning"
+344927,2023-10-05,VIP Essential,Bob,Bad Customer Service,Y,N2K,"Boiler System, Humidifier, Tankless, Duct Cleaning, Gas Fireplace"
+967021,2023-11-06,VIP Standard - Furnace,Jill,Moving,Y,N2R,"Water Heater, Humidifier, Gas Fireplace, Ductless System, Duct Cleaning, Boiler System, HRV System"
+787953,2023-07-21,VIP Standard - AC/Heat Pump,Jane,Bad Customer Service,N,N2J,"Humidifier, Boiler System, Duct Cleaning"
+298306,2023-12-05,VIP Standard - Furnace,Jill,Price,Y,N2K,"Ductless System, Water Heater"
+623468,2023-01-17,VIP Standard - Furnace,Jill,Price,Y,N2G,Humidifier
+952019,2023-10-17,Whole House Protection,Jill,Unused,Y,N2N,Boiler System
+672028,2023-05-29,Whole House Protection,Jack,Price,N,N2P,"Humidifier, HRV System"
+391351,2023-04-28,VIP Standard - Furnace & AC/Heat Pump,Jane,Bad Customer Service,Y,N2K,"Humidifier, Duct Cleaning, Boiler System"
+218965,2023-01-19,VIP Standard - AC/Heat Pump,Bob,Price,Y,N2G,"Duct Cleaning, Water Heater"
+950777,2023-06-01,Whole House Protection,Bob,Moving,Y,N2K,"Humidifier, Water Heater, HRV System, Duct Cleaning, Gas Fireplace, Ductless System, Tankless"
+395537,2023-01-13,VIP Standard - Furnace,Jane,Moving,Y,N2N,
+346116,2023-08-01,VIP Essential,Jane,Price,Y,N2M,"Ductless System, Boiler System"
+584969,2023-03-30,Whole House Protection,Jill,Moving,Y,N2P,"Tankless, Gas Fireplace, Water Heater"
+330884,2023-06-08,VIP Standard - Furnace,Bob,Bad Customer Service,N,N2G,
+775653,2023-02-03,Whole House Protection,Jane,Unused,N,N2C,
+114797,2023-08-17,VIP Standard - AC/Heat Pump,Bob,Bad Customer Service,Y,N2T,"Water Heater, Boiler System, Gas Fireplace"
+988031,2023-01-25,VIP Standard - Furnace,Jack,Price,Y,N2A,"HRV System, Water Heater"
+950798,2023-12-14,VIP Standard - Furnace & AC/Heat Pump,Jack,Unused,Y,N2A,"Tankless, Water Heater"
+601614,2023-11-14,VIP Standard - Furnace & AC/Heat Pump,Jill,Bad Customer Service,Y,N2A,"HRV System, Duct Cleaning, Boiler System, Water Heater, Humidifier, Gas Fireplace, Ductless System, Tankless"
+314567,2023-12-01,VIP Essential,Jill,Bad Customer Service,Y,N2L,"Water Heater, Boiler System"
+584675,2023-08-01,VIP Standard - Furnace & AC/Heat Pump,Bob,Bad Customer Service,N,N2P,"Gas Fireplace, Water Heater, HRV System"
+123241,2023-05-23,VIP Standard - AC/Heat Pump,Jack,Moving,Y,N2P,"Duct Cleaning, Humidifier"
+390979,2023-01-23,Whole House Protection,Jane,Unused,N,N2M,"Duct Cleaning, Boiler System, Humidifier, Gas Fireplace, Tankless"
+683261,2023-02-24,VIP Standard - Furnace,Jack,Unused,N,N2R,"Humidifier, Duct Cleaning, HRV System, Ductless System, Gas Fireplace"
+835322,2023-12-15,VIP Essential,Bob,Bad Customer Service,N,N2P,Boiler System
+715752,2023-11-30,VIP Standard - Furnace,Bob,Unused,Y,N2L,Water Heater
+113210,2023-09-01,VIP Standard - Furnace & AC/Heat Pump,Bob,Bad Customer Service,N,N2H,Humidifier
+982343,2023-06-30,VIP Standard - AC/Heat Pump,Bob,Moving,N,N2A,"Humidifier, Tankless, Ductless System, Boiler System, Gas Fireplace"
+665440,2023-09-19,VIP Standard - Furnace & AC/Heat Pump,Bob,Moving,N,N2R,"Ductless System, Tankless, Humidifier"
+740580,2023-05-23,VIP Standard - Furnace & AC/Heat Pump,Jill,Bad Customer Service,N,N2B,
+325715,2023-09-19,VIP Essential,Jane,Moving,Y,N2J,"Tankless, Duct Cleaning, Boiler System, Gas Fireplace"
+677169,2023-04-07,VIP Standard - Furnace & AC/Heat Pump,Bob,Unused,N,N2H,"HRV System, Ductless System, Humidifier"
+216549,2023-01-27,VIP Standard - Furnace & AC/Heat Pump,Bob,Unused,Y,N2B,
+166930,2023-05-29,VIP Standard - AC/Heat Pump,Jill,Price,N,N2A,"Humidifier, Water Heater, Tankless, Boiler System, Ductless System, Duct Cleaning, HRV System"
+684236,2023-01-11,VIP Standard - Furnace,Jane,Unused,Y,N2G,"Humidifier, Gas Fireplace, Boiler System, Ductless System, Water Heater"
+738753,2023-01-05,VIP Essential,Jill,Price,Y,N2N,"HRV System, Gas Fireplace"
+528694,2023-10-09,VIP Standard - Furnace,Jane,Price,N,N2V,"Tankless, HRV System, Boiler System, Humidifier"
+732485,2023-07-05,VIP Standard - Furnace,Jane,Price,Y,N2H,"Boiler System, Duct Cleaning, Tankless, Gas Fireplace, HRV System, Ductless System"
+382303,2023-05-26,VIP Standard - AC/Heat Pump,Jack,Moving,Y,N2R,"Humidifier, Gas Fireplace, HRV System, Boiler System, Tankless, Water Heater, Ductless System"
+149258,2023-06-16,Whole House Protection,Bob,Unused,N,N2G,"Humidifier, HRV System"
+697946,2023-07-27,Whole House Protection,Bob,Unused,N,N2L,
+335388,2023-01-31,VIP Standard - AC/Heat Pump,Jill,Unused,N,N2H,"Humidifier, Duct Cleaning, HRV System, Ductless System, Boiler System, Tankless"
+585208,2023-12-19,VIP Standard - Furnace & AC/Heat Pump,Bob,Bad Customer Service,Y,N2R,Ductless System
+156130,2023-10-13,VIP Standard - Furnace,Jill,Bad Customer Service,N,N2J,"Ductless System, Humidifier, Tankless, Duct Cleaning, Boiler System, HRV System, Gas Fireplace"
+774004,2023-04-26,VIP Standard - Furnace & AC/Heat Pump,Jane,Price,N,N2H,Tankless
+999924,2023-05-11,VIP Standard - AC/Heat Pump,Jane,Unused,Y,N2J,Ductless System
+839024,2023-05-11,VIP Standard - Furnace,Bob,Moving,N,N2R,"HRV System, Humidifier, Gas Fireplace"
+909030,2023-09-12,Whole House Protection,Jane,Unused,N,N2A,
+536535,2023-11-08,VIP Standard - Furnace & AC/Heat Pump,Jill,Bad Customer Service,N,N2G,"HRV System, Water Heater, Duct Cleaning, Gas Fireplace"
+551312,2023-05-05,VIP Standard - Furnace,Jack,Moving,N,N2K,"Humidifier, Tankless"
+306777,2023-05-22,VIP Standard - Furnace,Jane,Moving,N,N2B,"Water Heater, Boiler System, Gas Fireplace, Humidifier"
+715335,2023-10-19,VIP Standard - Furnace,Jack,Moving,N,N2N,"Tankless, Ductless System, HRV System, Gas Fireplace, Boiler System"
+490903,2023-09-18,VIP Standard - Furnace,Jane,Moving,N,N2G,"Ductless System, Boiler System"
+661226,2023-10-25,VIP Standard - Furnace & AC/Heat Pump,Jane,Bad Customer Service,N,N2C,"HRV System, Gas Fireplace, Duct Cleaning, Ductless System"
+128983,2023-01-23,VIP Standard - Furnace,Jack,Unused,Y,N2E,"Humidifier, Gas Fireplace, Ductless System, HRV System, Duct Cleaning, Water Heater"
+512658,2023-06-22,VIP Standard - Furnace,Bob,Unused,Y,N2N,
+861579,2023-04-11,Whole House Protection,Jack,Price,Y,N2A,
+856466,2023-10-03,VIP Standard - AC/Heat Pump,Jack,Unused,N,N2G,"Humidifier, Boiler System, Ductless System, Tankless, Water Heater, HRV System, Gas Fireplace"
+269294,2023-06-07,VIP Standard - Furnace,Jill,Unused,Y,N2T,"Ductless System, Tankless, Boiler System, Water Heater, Duct Cleaning, Gas Fireplace, Humidifier"
+378657,2023-09-05,VIP Standard - Furnace & AC/Heat Pump,Bob,Price,Y,N2M,"Duct Cleaning, Humidifier, Gas Fireplace, Tankless, Water Heater, Boiler System"
+597173,2023-05-12,Whole House Protection,Jack,Price,Y,N2H,Tankless
+143875,2023-03-03,VIP Standard - AC/Heat Pump,Bob,Bad Customer Service,Y,N2R,Boiler System
+617956,2023-11-27,VIP Standard - Furnace,Jane,Price,N,N2C,"Boiler System, Water Heater, Tankless, Ductless System, Gas Fireplace, HRV System"
+328380,2023-02-09,VIP Standard - Furnace,Jane,Unused,N,N2N,"Tankless, Water Heater, Gas Fireplace, Ductless System, Boiler System, Duct Cleaning"
+382616,2023-04-19,VIP Standard - Furnace,Bob,Moving,Y,N2L,"Tankless, Ductless System, Duct Cleaning, Boiler System, HRV System, Humidifier, Water Heater, Gas Fireplace"
+695906,2023-02-28,VIP Standard - AC/Heat Pump,Jane,Price,Y,N2J,
+348299,2023-03-28,VIP Standard - Furnace & AC/Heat Pump,Jack,Price,N,N2H,
+525755,2023-09-08,VIP Standard - AC/Heat Pump,Bob,Unused,N,N2E,"Humidifier, Tankless, Ductless System"
+480574,2023-01-10,VIP Standard - Furnace,Bob,Bad Customer Service,N,N2H,"Humidifier, Ductless System"
+458872,2023-08-22,VIP Standard - Furnace,Jill,Bad Customer Service,Y,N2J,"Gas Fireplace, Tankless"
+360557,2023-05-22,Whole House Protection,Jack,Moving,Y,N2K,Gas Fireplace
+698234,2023-01-31,VIP Essential,Jack,Price,N,N2M,"Water Heater, Gas Fireplace, HRV System, Duct Cleaning"
+531648,2023-11-09,VIP Standard - Furnace,Jane,Price,Y,N2A,"Water Heater, Duct Cleaning, HRV System, Gas Fireplace"
+316229,2023-12-18,VIP Standard - AC/Heat Pump,Jack,Price,N,N2N,"Humidifier, Tankless, Duct Cleaning, HRV System, Ductless System, Boiler System"
+400076,2023-11-02,VIP Standard - AC/Heat Pump,Jill,Price,N,N2M,"Gas Fireplace, Water Heater, Ductless System, Boiler System, Tankless, Duct Cleaning"
+854830,2023-12-05,VIP Standard - Furnace,Jill,Unused,N,N2R,"HRV System, Humidifier, Water Heater"
+796979,2023-10-13,VIP Essential,Jack,Price,N,N2K,"Boiler System, Gas Fireplace, Humidifier, Water Heater, Duct Cleaning, Ductless System, HRV System, Tankless"
+939183,2023-08-29,Whole House Protection,Jill,Moving,Y,N2P,"Ductless System, Duct Cleaning, Boiler System, Water Heater"
+558859,2023-11-02,Whole House Protection,Jack,Bad Customer Service,Y,N2N,"Water Heater, HRV System"
+793447,2023-08-01,VIP Standard - Furnace,Jane,Bad Customer Service,N,N2R,
+387742,2023-08-17,Whole House Protection,Bob,Moving,N,N2T,"Boiler System, HRV System, Ductless System, Tankless"
+998164,2023-02-22,VIP Standard - Furnace & AC/Heat Pump,Bob,Price,Y,N2G,"Humidifier, HRV System, Duct Cleaning"
+733476,2023-05-26,VIP Standard - AC/Heat Pump,Jill,Unused,Y,N2J,
+423158,2023-03-14,Whole House Protection,Jane,Bad Customer Service,N,N2T,"Humidifier, Duct Cleaning, Ductless System, Gas Fireplace"
+630990,2023-04-28,VIP Essential,Bob,Bad Customer Service,Y,N2A,
+874984,2023-02-02,Whole House Protection,Jane,Moving,Y,N2R,"Boiler System, Water Heater, Duct Cleaning, Tankless, Ductless System"
+836667,2023-07-06,VIP Standard - Furnace,Jane,Bad Customer Service,Y,N2R,"Ductless System, Gas Fireplace, Boiler System, Humidifier, Duct Cleaning, Water Heater, HRV System"
+190675,2023-11-10,VIP Standard - AC/Heat Pump,Jack,Moving,N,N2E,"Ductless System, Boiler System, Humidifier, Water Heater"
+414448,2023-06-02,VIP Standard - Furnace & AC/Heat Pump,Bob,Unused,Y,N2C,"Boiler System, Tankless, Ductless System, Humidifier"
+664508,2023-07-11,VIP Standard - Furnace & AC/Heat Pump,Jill,Price,N,N2L,Boiler System
+854750,2023-05-05,Whole House Protection,Jack,Bad Customer Service,Y,N2G,"Water Heater, HRV System, Duct Cleaning, Boiler System"
+759303,2023-08-21,Whole House Protection,Jane,Price,Y,N2V,"Ductless System, Tankless, Boiler System, Gas Fireplace, Water Heater, HRV System"
+561807,2023-07-14,Whole House Protection,Jane,Price,Y,N2B,Duct Cleaning
+835721,2023-03-20,VIP Standard - Furnace,Jane,Bad Customer Service,Y,N2C,"Water Heater, Duct Cleaning, HRV System, Tankless, Humidifier, Boiler System, Ductless System, Gas Fireplace"
+698895,2023-11-24,VIP Essential,Jill,Bad Customer Service,Y,N2K,Boiler System
+677584,2023-04-17,VIP Standard - Furnace,Jill,Moving,Y,N2N,Tankless
+325860,2023-03-10,VIP Standard - Furnace & AC/Heat Pump,Bob,Moving,Y,N2L,"Gas Fireplace, Tankless, Water Heater, Ductless System, Humidifier, HRV System"
+563405,2023-06-21,VIP Standard - Furnace & AC/Heat Pump,Bob,Moving,Y,N2H,"HRV System, Ductless System, Humidifier, Tankless, Boiler System, Gas Fireplace"
+831166,2023-02-14,Whole House Protection,Jane,Moving,N,N2L,"Duct Cleaning, Humidifier"
+169555,2023-11-16,Whole House Protection,Bob,Price,N,N2B,"Duct Cleaning, Humidifier, Water Heater, Tankless, Gas Fireplace, HRV System, Ductless System, Boiler System"
+450429,2023-09-05,VIP Standard - AC/Heat Pump,Bob,Moving,Y,N2B,"Ductless System, Tankless, Gas Fireplace, Duct Cleaning"
+947204,2023-01-10,Whole House Protection,Bob,Unused,Y,N2M,
+553600,2023-02-16,VIP Standard - Furnace & AC/Heat Pump,Jane,Unused,Y,N2A,
+852169,2023-02-27,VIP Essential,Jill,Unused,N,N2H,"Gas Fireplace, Ductless System, Tankless, Humidifier, HRV System, Boiler System"
+813777,2023-06-29,Whole House Protection,Bob,Unused,N,N2H,Ductless System
+220635,2023-02-23,VIP Standard - Furnace & AC/Heat Pump,Jill,Unused,Y,N2K,"HRV System, Tankless, Humidifier, Duct Cleaning, Water Heater, Boiler System"
+679790,2023-12-20,VIP Standard - AC/Heat Pump,Jane,Price,Y,N2B,"Boiler System, Ductless System, Duct Cleaning, HRV System, Gas Fireplace, Water Heater, Tankless"
+627783,2023-02-16,VIP Essential,Jill,Bad Customer Service,N,N2J,Gas Fireplace
+320643,2023-01-13,Whole House Protection,Bob,Price,N,N2P,"Tankless, Humidifier, HRV System, Gas Fireplace, Boiler System"
+664637,2023-10-13,VIP Standard - AC/Heat Pump,Jack,Moving,Y,N2N,"HRV System, Ductless System"
+723761,2023-11-02,Whole House Protection,Jill,Unused,N,N2R,"Gas Fireplace, Ductless System, Water Heater, Duct Cleaning"
+539020,2023-01-04,VIP Standard - AC/Heat Pump,Jack,Unused,Y,N2K,"Humidifier, Boiler System, Gas Fireplace, Tankless, Water Heater, HRV System, Duct Cleaning, Ductless System"
+253945,2023-07-31,VIP Standard - Furnace,Jane,Moving,Y,N2H,"Water Heater, Humidifier, Duct Cleaning, Gas Fireplace"
+873248,2023-09-28,VIP Standard - Furnace & AC/Heat Pump,Jill,Price,Y,N2E,"Ductless System, HRV System, Tankless, Water Heater, Humidifier, Boiler System"
+509878,2023-05-19,VIP Essential,Bob,Moving,Y,N2G,
+309645,2023-05-22,VIP Standard - Furnace,Bob,Moving,N,N2P,
+868505,2023-01-17,Whole House Protection,Bob,Price,Y,N2K,"Humidifier, Ductless System, Tankless, Gas Fireplace, Duct Cleaning"
+657865,2023-01-04,VIP Essential,Bob,Price,Y,N2T,"Duct Cleaning, Tankless, Ductless System, HRV System, Gas Fireplace, Water Heater, Humidifier"
+493430,2023-11-20,VIP Essential,Bob,Bad Customer Service,Y,N2T,
+972402,2023-01-26,Whole House Protection,Jane,Moving,Y,N2V,"Duct Cleaning, HRV System"
+802785,2023-06-08,VIP Essential,Bob,Unused,N,N2V,"Ductless System, Boiler System, Water Heater, Gas Fireplace, HRV System, Duct Cleaning, Tankless"
+381237,2023-05-22,Whole House Protection,Jack,Price,Y,N2E,Gas Fireplace
+719191,2023-12-11,Whole House Protection,Jill,Price,Y,N2G,"Boiler System, Gas Fireplace, Ductless System"
+227446,2023-02-16,Whole House Protection,Jack,Bad Customer Service,N,N2C,"HRV System, Boiler System, Humidifier"
+727013,2023-06-13,VIP Essential,Jill,Bad Customer Service,N,N2B,"Gas Fireplace, HRV System, Tankless"
+665196,2023-05-26,VIP Essential,Jack,Bad Customer Service,N,N2N,"Gas Fireplace, Water Heater, Tankless"
+663287,2023-02-15,VIP Essential,Bob,Bad Customer Service,N,N2N,
+711328,2023-11-10,VIP Standard - AC/Heat Pump,Jack,Price,N,N2C,"Humidifier, Tankless, Boiler System, Ductless System, Water Heater, HRV System, Duct Cleaning, Gas Fireplace"
+320841,2023-05-10,VIP Standard - Furnace,Bob,Unused,N,N2V,"Tankless, Duct Cleaning, Gas Fireplace, Humidifier, HRV System"
+451454,2023-10-27,Whole House Protection,Jack,Moving,Y,N2T,"HRV System, Ductless System, Boiler System"
+419982,2023-07-04,VIP Standard - Furnace,Jane,Unused,N,N2L,"Duct Cleaning, Tankless"
+575814,2023-04-24,VIP Standard - Furnace & AC/Heat Pump,Jill,Bad Customer Service,N,N2P,"Boiler System, Duct Cleaning, HRV System, Water Heater, Humidifier, Tankless"
+340682,2023-08-10,VIP Standard - AC/Heat Pump,Jill,Price,Y,N2A,"Water Heater, HRV System, Boiler System, Humidifier, Tankless, Gas Fireplace, Duct Cleaning, Ductless System"
+291075,2023-12-26,VIP Standard - Furnace,Jane,Bad Customer Service,Y,N2E,"Boiler System, HRV System, Water Heater, Tankless, Humidifier, Duct Cleaning, Gas Fireplace, Ductless System"
+406418,2023-05-16,VIP Essential,Jill,Unused,N,N2R,"Ductless System, Humidifier, Tankless, Boiler System, Water Heater, HRV System, Gas Fireplace"
+471620,2023-07-13,VIP Standard - AC/Heat Pump,Bob,Unused,Y,N2E,"Tankless, Gas Fireplace, Water Heater, HRV System, Humidifier, Ductless System, Boiler System"
+967815,2023-05-18,VIP Standard - Furnace & AC/Heat Pump,Jack,Unused,Y,N2R,"Humidifier, Gas Fireplace, Boiler System"
+146881,2023-03-17,VIP Standard - Furnace & AC/Heat Pump,Jack,Price,Y,N2P,"Humidifier, Tankless, Ductless System, Gas Fireplace, Water Heater, Duct Cleaning, HRV System, Boiler System"
+567212,2023-02-10,VIP Essential,Bob,Bad Customer Service,N,N2B,"HRV System, Duct Cleaning, Humidifier, Water Heater"
+658052,2023-09-25,VIP Essential,Jill,Bad Customer Service,N,N2T,
+543143,2023-08-17,VIP Essential,Jill,Unused,Y,N2V,Water Heater
+105888,2023-11-09,VIP Standard - AC/Heat Pump,Jane,Price,Y,N2G,"Tankless, Water Heater, Boiler System, Gas Fireplace, Humidifier, HRV System, Duct Cleaning"
+513722,2023-12-05,VIP Standard - Furnace & AC/Heat Pump,Bob,Moving,N,N2V,"Boiler System, Gas Fireplace, Ductless System, Duct Cleaning, Humidifier, Tankless, HRV System, Water Heater"
+989534,2023-11-27,VIP Essential,Bob,Bad Customer Service,N,N2H,Water Heater
+472299,2023-12-28,VIP Standard - Furnace & AC/Heat Pump,Bob,Price,N,N2J,"Duct Cleaning, Gas Fireplace, Humidifier, Boiler System, Tankless, Water Heater, Ductless System, HRV System"
+254876,2023-02-15,VIP Essential,Jack,Price,N,N2J,
+233180,2023-06-09,Whole House Protection,Jill,Unused,N,N2T,"Humidifier, Duct Cleaning, Tankless, Water Heater, Boiler System, HRV System"
+773467,2023-08-02,VIP Standard - AC/Heat Pump,Jill,Price,N,N2J,"HRV System, Tankless, Boiler System, Duct Cleaning, Water Heater"
+972745,2023-04-27,VIP Standard - AC/Heat Pump,Jack,Bad Customer Service,Y,N2P,"Water Heater, Gas Fireplace, Tankless"
+282151,2023-06-08,VIP Standard - AC/Heat Pump,Bob,Price,N,N2R,"Humidifier, Ductless System, Tankless"
+520927,2023-07-10,VIP Standard - Furnace & AC/Heat Pump,Jane,Unused,N,N2E,"Duct Cleaning, Humidifier, Tankless, Boiler System, HRV System, Ductless System"
+558985,2023-05-04,Whole House Protection,Jill,Price,N,N2N,"Humidifier, Boiler System, HRV System, Gas Fireplace, Tankless"
+986909,2023-05-26,VIP Essential,Jane,Bad Customer Service,N,N2M,"Duct Cleaning, Water Heater, Tankless, Ductless System, Gas Fireplace, Boiler System, Humidifier"
+950706,2023-11-23,VIP Standard - Furnace & AC/Heat Pump,Jane,Moving,Y,N2R,"Boiler System, Tankless, Humidifier, Gas Fireplace, Water Heater, HRV System, Ductless System, Duct Cleaning"
+592633,2023-07-04,Whole House Protection,Jane,Price,N,N2A,Gas Fireplace
+935218,2023-08-04,VIP Standard - Furnace & AC/Heat Pump,Jack,Price,Y,N2M,"Humidifier, HRV System, Ductless System, Gas Fireplace"
+311689,2023-09-18,Whole House Protection,Jane,Moving,N,N2M,"Tankless, Water Heater, Gas Fireplace, Humidifier, Ductless System, Boiler System, HRV System, Duct Cleaning"
+244219,2023-10-19,VIP Standard - Furnace,Jane,Price,N,N2L,"Water Heater, Ductless System, Tankless"
+870979,2023-05-24,VIP Standard - Furnace & AC/Heat Pump,Jack,Moving,N,N2M,Gas Fireplace
+169925,2023-10-11,Whole House Protection,Jill,Bad Customer Service,Y,N2A,"Ductless System, Duct Cleaning, Boiler System, Tankless, Water Heater, HRV System, Gas Fireplace, Humidifier"
+451917,2023-06-15,VIP Standard - AC/Heat Pump,Jane,Price,N,N2M,"Ductless System, Gas Fireplace, Duct Cleaning, HRV System, Water Heater, Boiler System, Humidifier, Tankless"
+918707,2023-10-26,VIP Standard - Furnace & AC/Heat Pump,Jane,Unused,Y,N2E,Tankless
+129788,2023-09-26,VIP Essential,Jane,Moving,N,N2R,"Ductless System, Duct Cleaning"
+185764,2023-04-20,VIP Standard - Furnace & AC/Heat Pump,Jack,Unused,N,N2C,"Tankless, Gas Fireplace, Duct Cleaning, Humidifier"
+901728,2023-08-28,VIP Essential,Jill,Price,Y,N2G,"Humidifier, Gas Fireplace, HRV System, Duct Cleaning, Tankless, Boiler System, Water Heater"
+408480,2023-01-31,Whole House Protection,Bob,Bad Customer Service,N,N2L,"HRV System, Tankless, Water Heater, Humidifier, Boiler System, Gas Fireplace, Duct Cleaning, Ductless System"
+342994,2023-01-19,VIP Standard - Furnace & AC/Heat Pump,Bob,Price,N,N2N,"Boiler System, HRV System, Tankless, Gas Fireplace, Ductless System"
+723709,2023-04-26,VIP Essential,Jack,Moving,Y,N2N,"Tankless, Boiler System, Ductless System, Gas Fireplace, Water Heater, Duct Cleaning"
+116323,2023-11-22,Whole House Protection,Bob,Moving,Y,N2G,"Duct Cleaning, Boiler System"
+833657,2023-02-22,VIP Standard - AC/Heat Pump,Bob,Price,Y,N2H,"HRV System, Water Heater, Gas Fireplace"
+112089,2023-12-05,Whole House Protection,Bob,Price,Y,N2L,"Boiler System, Tankless"
+116423,2023-08-30,VIP Essential,Bob,Price,N,N2M,"Duct Cleaning, Tankless, Gas Fireplace, Water Heater"
+466945,2023-03-06,Whole House Protection,Bob,Bad Customer Service,Y,N2T,"Duct Cleaning, Ductless System, HRV System"
+888092,2023-08-15,VIP Standard - AC/Heat Pump,Jack,Price,Y,N2G,"Ductless System, Boiler System, Gas Fireplace, Duct Cleaning, Water Heater, Tankless"
+652373,2023-08-31,VIP Standard - Furnace & AC/Heat Pump,Jack,Moving,Y,N2J,"Humidifier, HRV System"
+149750,2023-04-14,VIP Standard - Furnace,Jane,Bad Customer Service,N,N2R,"Ductless System, Boiler System, HRV System, Duct Cleaning, Humidifier"
+337038,2023-10-31,VIP Standard - AC/Heat Pump,Jane,Bad Customer Service,N,N2N,
+583862,2023-09-07,VIP Standard - Furnace,Jane,Price,Y,N2N,"Gas Fireplace, HRV System"
+661774,2023-09-01,VIP Standard - AC/Heat Pump,Jack,Price,Y,N2R,"Ductless System, Tankless, Water Heater, HRV System, Duct Cleaning, Gas Fireplace, Boiler System, Humidifier"
+328953,2023-09-11,VIP Standard - Furnace,Jack,Moving,N,N2T,"Humidifier, HRV System, Tankless"
+322529,2023-12-18,VIP Standard - Furnace & AC/Heat Pump,Jane,Price,Y,N2J,"HRV System, Boiler System, Water Heater, Duct Cleaning, Gas Fireplace, Humidifier, Ductless System"
+216619,2023-04-11,VIP Essential,Jill,Moving,Y,N2E,
+577371,2023-05-01,VIP Standard - Furnace,Jill,Price,N,N2N,"Duct Cleaning, Humidifier, HRV System, Ductless System, Water Heater, Boiler System, Tankless"
+642948,2023-12-26,VIP Standard - AC/Heat Pump,Jill,Moving,N,N2K,"Tankless, Gas Fireplace, Water Heater, Humidifier, Ductless System, Boiler System, Duct Cleaning"
+360480,2023-02-16,VIP Standard - AC/Heat Pump,Jane,Moving,N,N2H,Boiler System
+778607,2023-02-03,Whole House Protection,Jane,Moving,N,N2G,"Humidifier, Duct Cleaning, Ductless System, Tankless, Boiler System, Water Heater, Gas Fireplace"
+787681,2023-04-04,Whole House Protection,Bob,Moving,Y,N2R,"Boiler System, Ductless System, HRV System, Gas Fireplace"
+769384,2023-11-06,Whole House Protection,Jill,Bad Customer Service,Y,N2T,"Duct Cleaning, Water Heater, HRV System, Ductless System, Boiler System, Humidifier"
+619780,2023-09-11,VIP Standard - Furnace,Jane,Price,Y,N2K,"Ductless System, Duct Cleaning, Humidifier, HRV System, Water Heater"
+220492,2023-03-30,VIP Standard - Furnace,Jill,Price,Y,N2E,
+468903,2023-05-31,VIP Standard - Furnace,Jill,Price,N,N2L,"Duct Cleaning, Humidifier, Ductless System, Gas Fireplace, Water Heater, HRV System, Tankless"
+609934,2023-11-01,VIP Standard - AC/Heat Pump,Jane,Unused,N,N2C,"Duct Cleaning, Gas Fireplace, Tankless, Boiler System, Ductless System, Water Heater, HRV System, Humidifier"
+748097,2023-02-15,VIP Standard - AC/Heat Pump,Jane,Moving,N,N2J,HRV System
+163134,2023-11-17,Whole House Protection,Jill,Unused,Y,N2P,"Ductless System, Duct Cleaning, Water Heater, Gas Fireplace, Tankless"
+824492,2023-07-03,VIP Standard - AC/Heat Pump,Bob,Price,Y,N2N,Gas Fireplace
+608344,2023-02-22,VIP Standard - Furnace & AC/Heat Pump,Jill,Moving,N,N2V,"Tankless, Water Heater, Gas Fireplace, Ductless System, Humidifier"
+478944,2023-01-31,VIP Essential,Bob,Unused,Y,N2M,"HRV System, Boiler System"
+212744,2023-05-04,VIP Standard - Furnace & AC/Heat Pump,Jane,Price,N,N2T,"Water Heater, Boiler System"
+102979,2023-01-26,VIP Essential,Jill,Price,Y,N2G,"HRV System, Duct Cleaning, Boiler System, Tankless"
+635849,2023-03-10,VIP Standard - Furnace & AC/Heat Pump,Jill,Moving,Y,N2A,"HRV System, Ductless System, Boiler System, Tankless, Duct Cleaning"
+348317,2023-10-10,VIP Standard - Furnace,Jill,Moving,N,N2G,Boiler System
+433471,2023-06-23,Whole House Protection,Jill,Moving,Y,N2V,Tankless
+992082,2023-10-23,VIP Standard - Furnace,Jill,Moving,N,N2H,"Ductless System, Water Heater, Gas Fireplace, Humidifier, Tankless"
+445853,2023-08-29,VIP Standard - Furnace & AC/Heat Pump,Jane,Price,Y,N2C,"Duct Cleaning, Boiler System"
+236418,2023-06-21,VIP Essential,Jane,Unused,Y,N2N,"Humidifier, HRV System, Gas Fireplace, Tankless, Water Heater, Boiler System, Duct Cleaning"
+682894,2023-01-19,VIP Standard - Furnace & AC/Heat Pump,Jill,Unused,N,N2C,"Ductless System, HRV System, Tankless"
+399684,2023-03-16,VIP Standard - AC/Heat Pump,Bob,Price,N,N2V,"Gas Fireplace, Boiler System, Ductless System, Duct Cleaning, HRV System, Water Heater"
+252102,2023-11-20,VIP Standard - Furnace,Jane,Moving,Y,N2T,
+191582,2023-01-24,VIP Standard - Furnace & AC/Heat Pump,Jill,Unused,N,N2A,Humidifier
+242377,2023-08-30,VIP Standard - Furnace,Jack,Bad Customer Service,Y,N2B,
+809137,2023-10-18,VIP Standard - Furnace & AC/Heat Pump,Jill,Price,N,N2G,"Tankless, HRV System, Ductless System, Gas Fireplace"
+846107,2023-04-28,VIP Standard - Furnace,Jill,Moving,N,N2T,
+472732,2023-01-06,VIP Essential,Jack,Price,N,N2H,"Tankless, Humidifier, Gas Fireplace, Water Heater, Boiler System, Duct Cleaning"
+155574,2023-06-28,VIP Standard - Furnace & AC/Heat Pump,Bob,Unused,Y,N2J,
+998888,2023-07-27,Whole House Protection,Jane,Unused,Y,N2V,"Humidifier, Gas Fireplace, Tankless, Ductless System"
+913757,2023-11-22,VIP Standard - Furnace,Jack,Price,N,N2G,"Tankless, HRV System, Humidifier, Gas Fireplace"
+348574,2023-11-24,VIP Standard - AC/Heat Pump,Bob,Unused,Y,N2K,
+778405,2023-07-19,VIP Essential,Jack,Bad Customer Service,Y,N2P,"Water Heater, Gas Fireplace, Tankless, Boiler System, Humidifier, Ductless System, Duct Cleaning, HRV System"
+889201,2023-02-03,VIP Essential,Jill,Moving,Y,N2T,"Humidifier, Tankless, Boiler System, Water Heater, Ductless System, Duct Cleaning, HRV System"
+834377,2023-07-06,VIP Standard - Furnace & AC/Heat Pump,Bob,Moving,N,N2R,"Water Heater, Duct Cleaning, Tankless, HRV System, Boiler System, Gas Fireplace, Humidifier"
